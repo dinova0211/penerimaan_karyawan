@@ -1,0 +1,583 @@
+[02-Jan-2017 09:50:46 UTC] PHP Parse error:  syntax error, unexpected 'die' (T_EXIT), expecting function (T_FUNCTION) in /home/kpptech/public_html/operation/yulia/knapsack/application/controllers/admin/Login.php on line 6
+[02-Jan-2017 09:53:06 UTC] PHP Fatal error:  Cannot redeclare Welcome::index() in /home/kpptech/public_html/operation/yulia/knapsack/application/controllers/Welcome.php on line 38
+[02-Jan-2017 09:57:46 UTC] PHP Fatal error:  Call to a member function model() on null in /home/kpptech/public_html/operation/yulia/knapsack/application/controllers/admin/Login.php on line 12
+[02-Jan-2017 09:57:46 UTC] PHP Fatal error:  Call to a member function model() on null in /home/kpptech/public_html/operation/yulia/knapsack/application/controllers/admin/Login.php on line 12
+[02-Jan-2017 09:57:48 UTC] PHP Fatal error:  Call to a member function model() on null in /home/kpptech/public_html/operation/yulia/knapsack/application/controllers/admin/Login.php on line 12
+[02-Jan-2017 09:57:59 UTC] PHP Fatal error:  Call to a member function model() on null in /home/kpptech/public_html/operation/yulia/knapsack/application/controllers/admin/Login.php on line 12
+[02-Jan-2017 09:58:49 UTC] PHP Fatal error:  Call to a member function model() on null in /home/kpptech/public_html/operation/yulia/knapsack/application/controllers/admin/Login.php on line 12
+[02-Jan-2017 09:58:50 UTC] PHP Fatal error:  Call to a member function model() on null in /home/kpptech/public_html/operation/yulia/knapsack/application/controllers/admin/Login.php on line 12
+[02-Jan-2017 10:01:02 UTC] PHP Fatal error:  Call to a member function model() on null in /home/kpptech/public_html/operation/yulia/knapsack/application/controllers/admin/Login.php on line 12
+[02-Jan-2017 10:01:04 UTC] PHP Fatal error:  Call to a member function model() on null in /home/kpptech/public_html/operation/yulia/knapsack/application/controllers/admin/Login.php on line 12
+[02-Jan-2017 10:01:04 UTC] PHP Fatal error:  Call to a member function model() on null in /home/kpptech/public_html/operation/yulia/knapsack/application/controllers/admin/Login.php on line 12
+[02-Jan-2017 10:02:55 UTC] PHP Fatal error:  Call to a member function model() on null in /home/kpptech/public_html/operation/yulia/knapsack/application/controllers/admin/Login.php on line 12
+[02-Jan-2017 10:02:55 UTC] PHP Fatal error:  Call to a member function model() on null in /home/kpptech/public_html/operation/yulia/knapsack/application/controllers/admin/Login.php on line 12
+[02-Jan-2017 10:02:56 UTC] PHP Fatal error:  Call to a member function model() on null in /home/kpptech/public_html/operation/yulia/knapsack/application/controllers/admin/Login.php on line 12
+[02-Jan-2017 12:18:49 UTC] PHP Fatal error:  Call to undefined function form_error() in /home/kpptech/public_html/operation/yulia/knapsack/application/views/member/petugas/add.php on line 155
+[02-Jan-2017 12:19:16 UTC] PHP Fatal error:  Call to a member function getAllPetugas() on null in /home/kpptech/public_html/operation/yulia/knapsack/application/controllers/admin/Petugas.php on line 17
+[02-Jan-2017 12:19:28 UTC] PHP Fatal error:  Call to a member function getAllPetugas() on null in /home/kpptech/public_html/operation/yulia/knapsack/application/controllers/admin/Petugas.php on line 17
+[02-Jan-2017 12:19:52 UTC] PHP Fatal error:  Call to undefined function form_error() in /home/kpptech/public_html/operation/yulia/knapsack/application/views/member/petugas/add.php on line 155
+[02-Jan-2017 12:20:08 UTC] PHP Fatal error:  Call to undefined function form_error() in /home/kpptech/public_html/operation/yulia/knapsack/application/views/member/petugas/add.php on line 155
+[02-Jan-2017 12:21:08 UTC] PHP Fatal error:  Call to undefined function form_error() in /home/kpptech/public_html/operation/yulia/knapsack/application/views/member/petugas/add.php on line 155
+[02-Jan-2017 12:21:11 UTC] PHP Fatal error:  Call to a member function getAllPetugas() on null in /home/kpptech/public_html/operation/yulia/knapsack/application/controllers/admin/Petugas.php on line 18
+[02-Jan-2017 12:21:13 UTC] PHP Fatal error:  Call to undefined function form_error() in /home/kpptech/public_html/operation/yulia/knapsack/application/views/member/petugas/add.php on line 155
+[02-Jan-2017 12:22:20 UTC] PHP Fatal error:  Call to undefined function form_error() in /home/kpptech/public_html/operation/yulia/knapsack/application/views/member/petugas/add.php on line 155
+[02-Jan-2017 12:23:02 UTC] PHP Fatal error:  Call to undefined function form_error() in /home/kpptech/public_html/operation/yulia/knapsack/application/views/member/petugas/add.php on line 155
+[02-Jan-2017 12:25:57 UTC] PHP Fatal error:  Call to undefined function form_error() in /home/kpptech/public_html/operation/yulia/knapsack/application/views/member/petugas/add.php on line 155
+[02-Jan-2017 12:26:18 UTC] PHP Fatal error:  Call to undefined function form_error() in /home/kpptech/public_html/operation/yulia/knapsack/application/views/member/petugas/add.php on line 155
+[02-Jan-2017 12:26:23 UTC] PHP Fatal error:  Call to undefined function form_error() in /home/kpptech/public_html/operation/yulia/knapsack/application/views/member/petugas/add.php on line 155
+[02-Jan-2017 13:03:53 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/kpptech/public_html/operation/yulia/knapsack/application/controllers/admin/Kategori.php on line 72
+[02-Jan-2017 13:04:51 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/kpptech/public_html/operation/yulia/knapsack/application/controllers/admin/Kategori.php on line 72
+[02-Jan-2017 13:14:22 UTC] PHP Fatal error:  Call to a member function generatePesan() on null in /home/kpptech/public_html/operation/yulia/knapsack/application/controllers/admin/Kategori.php on line 37
+[02-Jan-2017 13:14:47 UTC] PHP Fatal error:  Call to a member function generatePesan() on null in /home/kpptech/public_html/operation/yulia/knapsack/application/controllers/admin/Kategori.php on line 36
+[02-Jan-2017 13:24:22 UTC] PHP Fatal error:  Call to a member function generatePesan() on null in /home/kpptech/public_html/operation/yulia/knapsack/application/controllers/admin/Kategori.php on line 36
+[02-Jan-2017 13:24:50 UTC] PHP Fatal error:  Call to a member function generatePesan() on null in /home/kpptech/public_html/operation/yulia/knapsack/application/controllers/admin/Kategori.php on line 36
+[02-Jan-2017 13:25:12 UTC] PHP Fatal error:  Call to a member function generatePesan() on null in /home/kpptech/public_html/operation/yulia/knapsack/application/controllers/admin/Kategori.php on line 36
+[02-Jan-2017 13:25:50 UTC] PHP Fatal error:  Call to a member function generatePesan() on null in /home/kpptech/public_html/operation/yulia/knapsack/application/controllers/admin/Kategori.php on line 36
+[02-Jan-2017 13:26:12 UTC] PHP Fatal error:  Call to a member function getAllKategori() on null in /home/kpptech/public_html/operation/yulia/knapsack/application/controllers/admin/Kategori.php on line 17
+[02-Jan-2017 13:37:40 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/kpptech/public_html/operation/yulia/knapsack/application/views/member/kategori/list.php on line 188
+[02-Jan-2017 14:23:44 UTC] PHP Fatal error:  Call to undefined method M_kategori::getKategoriByID() in /home/kpptech/public_html/operation/yulia/knapsack/application/controllers/admin/Kategori.php on line 55
+[02-Jan-2017 14:25:11 UTC] PHP Fatal error:  Call to undefined method M_kategori::getKategoriByID() in /home/kpptech/public_html/operation/yulia/knapsack/application/controllers/admin/Kategori.php on line 55
+[02-Jan-2017 14:25:18 UTC] PHP Fatal error:  Call to undefined method M_kategori::getKategoriByID() in /home/kpptech/public_html/operation/yulia/knapsack/application/controllers/admin/Kategori.php on line 55
+[02-Jan-2017 14:25:26 UTC] PHP Fatal error:  Call to undefined method M_kategori::getKategoriByID() in /home/kpptech/public_html/operation/yulia/knapsack/application/controllers/admin/Kategori.php on line 55
+[02-Jan-2017 14:53:54 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/kpptech/public_html/operation/yulia/knapsack/application/controllers/admin/Tarif.php on line 38
+[02-Jan-2017 14:53:55 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/kpptech/public_html/operation/yulia/knapsack/application/controllers/admin/Tarif.php on line 38
+[02-Jan-2017 14:53:56 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/kpptech/public_html/operation/yulia/knapsack/application/controllers/admin/Tarif.php on line 38
+[02-Jan-2017 14:53:56 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/kpptech/public_html/operation/yulia/knapsack/application/controllers/admin/Tarif.php on line 38
+[02-Jan-2017 14:53:56 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/kpptech/public_html/operation/yulia/knapsack/application/controllers/admin/Tarif.php on line 38
+[02-Jan-2017 14:53:57 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/kpptech/public_html/operation/yulia/knapsack/application/controllers/admin/Tarif.php on line 38
+[02-Jan-2017 14:54:10 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/kpptech/public_html/operation/yulia/knapsack/application/controllers/admin/Tarif.php on line 38
+[02-Jan-2017 14:55:11 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/kpptech/public_html/operation/yulia/knapsack/application/controllers/admin/Tarif.php on line 38
+[02-Jan-2017 14:55:30 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/kpptech/public_html/operation/yulia/knapsack/application/controllers/admin/Tarif.php on line 39
+[02-Jan-2017 14:55:31 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/kpptech/public_html/operation/yulia/knapsack/application/controllers/admin/Tarif.php on line 39
+[02-Jan-2017 14:55:39 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/kpptech/public_html/operation/yulia/knapsack/application/controllers/admin/Tarif.php on line 39
+[02-Jan-2017 15:02:19 UTC] PHP Fatal error:  Call to undefined method M_kategori::getAlKategori() in /home/kpptech/public_html/operation/yulia/knapsack/application/views/member/tarif/add.php on line 159
+[02-Jan-2017 15:27:04 UTC] PHP Fatal error:  Call to a member function getTarifByID() on null in /home/kpptech/public_html/operation/yulia/knapsack/application/controllers/admin/Tipe_mobil.php on line 55
+[02-Jan-2017 15:42:49 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/kpptech/public_html/operation/yulia/knapsack/application/controllers/admin/Pelanggan.php on line 70
+[02-Jan-2017 15:43:53 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/kpptech/public_html/operation/yulia/knapsack/application/controllers/admin/Pelanggan.php on line 70
+[02-Jan-2017 15:44:17 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/kpptech/public_html/operation/yulia/knapsack/application/controllers/admin/Pelanggan.php on line 70
+[02-Jan-2017 15:44:58 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/kpptech/public_html/operation/yulia/knapsack/application/controllers/admin/Pelanggan.php on line 71
+[02-Jan-2017 15:44:59 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/kpptech/public_html/operation/yulia/knapsack/application/controllers/admin/Pelanggan.php on line 71
+[02-Jan-2017 15:45:07 UTC] PHP Fatal error:  Can't use function return value in write context in /home/kpptech/public_html/operation/yulia/knapsack/application/controllers/admin/Pelanggan.php on line 71
+[02-Jan-2017 20:34:59 UTC] PHP Parse error:  syntax error, unexpected '$route' (T_VARIABLE) in /home/kpptech/public_html/operation/yulia/knapsack/application/config/routes.php on line 53
+[02-Jan-2017 20:35:00 UTC] PHP Parse error:  syntax error, unexpected '$route' (T_VARIABLE) in /home/kpptech/public_html/operation/yulia/knapsack/application/config/routes.php on line 53
+[02-Jan-2017 20:35:00 UTC] PHP Parse error:  syntax error, unexpected '$route' (T_VARIABLE) in /home/kpptech/public_html/operation/yulia/knapsack/application/config/routes.php on line 53
+[02-Jan-2017 20:35:01 UTC] PHP Parse error:  syntax error, unexpected '$route' (T_VARIABLE) in /home/kpptech/public_html/operation/yulia/knapsack/application/config/routes.php on line 53
+[02-Jan-2017 20:35:01 UTC] PHP Parse error:  syntax error, unexpected '$route' (T_VARIABLE) in /home/kpptech/public_html/operation/yulia/knapsack/application/config/routes.php on line 53
+[02-Jan-2017 20:35:04 UTC] PHP Parse error:  syntax error, unexpected '$route' (T_VARIABLE) in /home/kpptech/public_html/operation/yulia/knapsack/application/config/routes.php on line 53
+[02-Jan-2017 20:35:04 UTC] PHP Parse error:  syntax error, unexpected '$route' (T_VARIABLE) in /home/kpptech/public_html/operation/yulia/knapsack/application/config/routes.php on line 53
+[08-Jan-2017 03:11:13 UTC] PHP Fatal error:  Call to a member function cari_armada() on null in /home/kpptech/public_html/operation/yulia/knapsack/application/libraries/Myknapsack.php on line 248
+[08-Jan-2017 03:13:35 UTC] PHP Fatal error:  Call to a member function cari_armada() on null in /home/kpptech/public_html/operation/yulia/knapsack/application/libraries/Myknapsack.php on line 248
+[08-Jan-2017 03:22:48 UTC] PHP Fatal error:  Call to a member function cari_armada() on null in /home/kpptech/public_html/operation/yulia/knapsack/application/libraries/Myknapsack.php on line 248
+[08-Jan-2017 03:23:27 UTC] PHP Fatal error:  Call to a member function cari_armada() on null in /home/kpptech/public_html/operation/yulia/knapsack/application/libraries/Myknapsack.php on line 248
+[08-Jan-2017 03:28:24 UTC] PHP Fatal error:  Call to a member function cari_armada() on null in /home/kpptech/public_html/operation/yulia/knapsack/application/libraries/Myknapsack.php on line 251
+[08-Jan-2017 03:28:25 UTC] PHP Fatal error:  Call to a member function cari_armada() on null in /home/kpptech/public_html/operation/yulia/knapsack/application/libraries/Myknapsack.php on line 251
+[08-Jan-2017 03:28:26 UTC] PHP Fatal error:  Call to a member function cari_armada() on null in /home/kpptech/public_html/operation/yulia/knapsack/application/libraries/Myknapsack.php on line 251
+[08-Jan-2017 03:38:00 UTC] PHP Fatal error:  Call to a member function cari_armada() on null in /home/kpptech/public_html/operation/yulia/knapsack/application/libraries/Myknapsack.php on line 249
+[08-Jan-2017 03:38:00 UTC] PHP Fatal error:  Call to a member function cari_armada() on null in /home/kpptech/public_html/operation/yulia/knapsack/application/libraries/Myknapsack.php on line 249
+[08-Jan-2017 03:38:02 UTC] PHP Fatal error:  Call to a member function cari_armada() on null in /home/kpptech/public_html/operation/yulia/knapsack/application/libraries/Myknapsack.php on line 249
+[08-Jan-2017 03:38:30 UTC] PHP Fatal error:  Call to a member function cari_armada() on null in /home/kpptech/public_html/operation/yulia/knapsack/application/libraries/Myknapsack.php on line 249
+[08-Jan-2017 03:39:37 UTC] PHP Fatal error:  Call to a member function cari_armada() on null in /home/kpptech/public_html/operation/yulia/knapsack/application/libraries/Myknapsack.php on line 249
+[08-Jan-2017 04:36:12 UTC] PHP Fatal error:  Call to a member function cari_armada() on null in /home/kpptech/public_html/operation/yulia/knapsack/application/libraries/Myknapsack.php on line 249
+[08-Jan-2017 04:36:16 UTC] PHP Fatal error:  Call to a member function cari_armada() on null in /home/kpptech/public_html/operation/yulia/knapsack/application/libraries/Myknapsack.php on line 249
+[08-Jan-2017 04:36:17 UTC] PHP Fatal error:  Call to a member function cari_armada() on null in /home/kpptech/public_html/operation/yulia/knapsack/application/libraries/Myknapsack.php on line 249
+[08-Jan-2017 04:36:18 UTC] PHP Fatal error:  Call to a member function cari_armada() on null in /home/kpptech/public_html/operation/yulia/knapsack/application/libraries/Myknapsack.php on line 249
+[08-Jan-2017 04:36:31 UTC] PHP Fatal error:  Call to a member function cari_armada() on null in /home/kpptech/public_html/operation/yulia/knapsack/application/libraries/Myknapsack.php on line 249
+[08-Jan-2017 04:37:20 UTC] PHP Fatal error:  Call to a member function cari_armada() on null in /home/kpptech/public_html/operation/yulia/knapsack/application/libraries/Myknapsack.php on line 249
+[08-Jan-2017 04:37:23 UTC] PHP Fatal error:  Call to a member function cari_armada() on null in /home/kpptech/public_html/operation/yulia/knapsack/application/libraries/Myknapsack.php on line 249
+[08-Jan-2017 04:37:41 UTC] PHP Fatal error:  Call to a member function cari_armada() on null in /home/kpptech/public_html/operation/yulia/knapsack/application/libraries/Myknapsack.php on line 249
+[09-Jan-2017 07:06:21 UTC] PHP Fatal error:  Call to a member function where() on null in /home/kpptech/public_html/operation/yulia/knapsack/application/models/M_transaksi.php on line 17
+[09-Jan-2017 07:07:00 UTC] PHP Fatal error:  Call to a member function where() on null in /home/kpptech/public_html/operation/yulia/knapsack/application/models/M_transaksi.php on line 17
+[09-Jan-2017 07:07:01 UTC] PHP Fatal error:  Call to a member function where() on null in /home/kpptech/public_html/operation/yulia/knapsack/application/models/M_transaksi.php on line 17
+[09-Jan-2017 07:07:01 UTC] PHP Fatal error:  Call to a member function where() on null in /home/kpptech/public_html/operation/yulia/knapsack/application/models/M_transaksi.php on line 17
+[09-Jan-2017 07:07:01 UTC] PHP Fatal error:  Call to a member function where() on null in /home/kpptech/public_html/operation/yulia/knapsack/application/models/M_transaksi.php on line 17
+[09-Jan-2017 09:01:49 UTC] PHP Fatal error:  Call to a member function result_array() on boolean in /home/kpptech/public_html/operation/yulia/knapsack/application/models/M_transaksi.php on line 19
+[09-Jan-2017 09:06:02 UTC] PHP Fatal error:  Call to a member function result_array() on boolean in /home/kpptech/public_html/operation/yulia/knapsack/application/models/M_transaksi.php on line 29
+[09-Jan-2017 09:06:16 UTC] PHP Fatal error:  Call to a member function result_array() on boolean in /home/kpptech/public_html/operation/yulia/knapsack/application/models/M_transaksi.php on line 29
+[09-Jan-2017 09:07:26 UTC] PHP Fatal error:  Call to a member function result_array() on boolean in /home/kpptech/public_html/operation/yulia/knapsack/application/models/M_transaksi.php on line 29
+[09-Jan-2017 09:07:27 UTC] PHP Fatal error:  Call to a member function result_array() on boolean in /home/kpptech/public_html/operation/yulia/knapsack/application/models/M_transaksi.php on line 29
+[09-Jan-2017 09:07:54 UTC] PHP Fatal error:  Call to a member function result_array() on boolean in /home/kpptech/public_html/operation/yulia/knapsack/application/models/M_transaksi.php on line 29
+[09-Jan-2017 09:08:26 UTC] PHP Fatal error:  Call to a member function result_array() on boolean in /home/kpptech/public_html/operation/yulia/knapsack/application/models/M_transaksi.php on line 29
+[09-Jan-2017 09:09:09 UTC] PHP Fatal error:  Call to a member function result_array() on boolean in /home/kpptech/public_html/operation/yulia/knapsack/application/models/M_transaksi.php on line 29
+[09-Jan-2017 09:09:34 UTC] PHP Fatal error:  Call to a member function result_array() on boolean in /home/kpptech/public_html/operation/yulia/knapsack/application/models/M_transaksi.php on line 29
+[09-Jan-2017 09:09:38 UTC] PHP Fatal error:  Call to a member function result_array() on boolean in /home/kpptech/public_html/operation/yulia/knapsack/application/models/M_transaksi.php on line 29
+[09-Jan-2017 09:09:41 UTC] PHP Fatal error:  Call to a member function result_array() on boolean in /home/kpptech/public_html/operation/yulia/knapsack/application/models/M_transaksi.php on line 29
+[09-Jan-2017 09:12:02 UTC] PHP Fatal error:  Call to a member function result_array() on boolean in /home/kpptech/public_html/operation/yulia/knapsack/application/models/M_transaksi.php on line 29
+[09-Jan-2017 09:12:11 UTC] PHP Fatal error:  Call to a member function result_array() on boolean in /home/kpptech/public_html/operation/yulia/knapsack/application/models/M_transaksi.php on line 29
+[09-Jan-2017 09:12:17 UTC] PHP Fatal error:  Call to a member function result_array() on boolean in /home/kpptech/public_html/operation/yulia/knapsack/application/models/M_transaksi.php on line 19
+[09-Jan-2017 09:13:00 UTC] PHP Fatal error:  Call to a member function result_array() on boolean in /home/kpptech/public_html/operation/yulia/knapsack/application/models/M_transaksi.php on line 19
+[09-Jan-2017 09:13:23 UTC] PHP Fatal error:  Call to a member function result_array() on boolean in /home/kpptech/public_html/operation/yulia/knapsack/application/models/M_transaksi.php on line 19
+[09-Jan-2017 09:13:52 UTC] PHP Fatal error:  Call to a member function result_array() on boolean in /home/kpptech/public_html/operation/yulia/knapsack/application/models/M_transaksi.php on line 19
+[09-Jan-2017 09:13:54 UTC] PHP Fatal error:  Call to a member function result_array() on boolean in /home/kpptech/public_html/operation/yulia/knapsack/application/models/M_transaksi.php on line 19
+[09-Jan-2017 09:14:00 UTC] PHP Fatal error:  Call to a member function result_array() on boolean in /home/kpptech/public_html/operation/yulia/knapsack/application/models/M_transaksi.php on line 19
+[09-Jan-2017 09:14:36 UTC] PHP Fatal error:  Call to a member function result_array() on boolean in /home/kpptech/public_html/operation/yulia/knapsack/application/models/M_transaksi.php on line 19
+[09-Jan-2017 09:14:51 UTC] PHP Fatal error:  Call to a member function result_array() on boolean in /home/kpptech/public_html/operation/yulia/knapsack/application/models/M_transaksi.php on line 29
+[09-Jan-2017 09:15:48 UTC] PHP Fatal error:  Call to a member function result_array() on boolean in /home/kpptech/public_html/operation/yulia/knapsack/application/models/M_transaksi.php on line 29
+[09-Jan-2017 09:16:29 UTC] PHP Fatal error:  Call to a member function result_array() on boolean in /home/kpptech/public_html/operation/yulia/knapsack/application/models/M_transaksi.php on line 29
+[09-Jan-2017 09:16:30 UTC] PHP Fatal error:  Call to a member function result_array() on boolean in /home/kpptech/public_html/operation/yulia/knapsack/application/models/M_transaksi.php on line 29
+[09-Jan-2017 09:16:55 UTC] PHP Fatal error:  Call to a member function result_array() on boolean in /home/kpptech/public_html/operation/yulia/knapsack/application/models/M_transaksi.php on line 29
+[09-Jan-2017 09:17:10 UTC] PHP Fatal error:  Call to a member function result_array() on boolean in /home/kpptech/public_html/operation/yulia/knapsack/application/models/M_transaksi.php on line 29
+[09-Jan-2017 09:17:11 UTC] PHP Fatal error:  Call to a member function result_array() on boolean in /home/kpptech/public_html/operation/yulia/knapsack/application/models/M_transaksi.php on line 29
+[09-Jan-2017 09:18:10 UTC] PHP Fatal error:  Call to a member function result_array() on boolean in /home/kpptech/public_html/operation/yulia/knapsack/application/models/M_transaksi.php on line 29
+[09-Jan-2017 09:20:15 UTC] PHP Fatal error:  Call to a member function result_array() on boolean in /home/kpptech/public_html/operation/yulia/knapsack/application/models/M_transaksi.php on line 30
+[09-Jan-2017 09:48:47 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/kpptech/public_html/operation/yulia/knapsack/application/views/member/transaksi/list.php on line 201
+[10-Jan-2017 03:13:43 UTC] PHP Fatal error:  Call to a member function result_array() on boolean in /home/kpptech/public_html/operation/yulia/knapsack/application/models/M_transaksi.php on line 40
+[10-Jan-2017 03:15:41 UTC] PHP Fatal error:  Call to a member function result_array() on boolean in /home/kpptech/public_html/operation/yulia/knapsack/application/models/M_transaksi.php on line 40
+[10-Jan-2017 03:29:20 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/kpptech/public_html/operation/yulia/knapsack/application/controllers/Transaksi.php on line 102
+[10-Jan-2017 03:29:21 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/kpptech/public_html/operation/yulia/knapsack/application/controllers/Transaksi.php on line 102
+[10-Jan-2017 04:40:35 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/kpptech/public_html/operation/yulia/knapsack/application/controllers/Transaksi.php on line 133
+[10-Jan-2017 04:40:37 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/kpptech/public_html/operation/yulia/knapsack/application/controllers/Transaksi.php on line 133
+[10-Jan-2017 04:40:39 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/kpptech/public_html/operation/yulia/knapsack/application/controllers/Transaksi.php on line 133
+[10-Jan-2017 07:36:14 UTC] PHP Fatal error:  Call to a member function result_array() on boolean in /home/kpptech/public_html/operation/yulia/knapsack/application/models/M_transaksi.php on line 51
+[10-Jan-2017 07:36:26 UTC] PHP Fatal error:  Call to a member function result_array() on boolean in /home/kpptech/public_html/operation/yulia/knapsack/application/models/M_transaksi.php on line 51
+[10-Jan-2017 07:36:40 UTC] PHP Fatal error:  Call to a member function result_array() on boolean in /home/kpptech/public_html/operation/yulia/knapsack/application/models/M_transaksi.php on line 51
+[10-Jan-2017 07:36:40 UTC] PHP Fatal error:  Call to a member function result_array() on boolean in /home/kpptech/public_html/operation/yulia/knapsack/application/models/M_transaksi.php on line 51
+[10-Jan-2017 07:37:25 UTC] PHP Fatal error:  Call to a member function result_array() on boolean in /home/kpptech/public_html/operation/yulia/knapsack/application/models/M_transaksi.php on line 51
+[10-Jan-2017 08:01:37 UTC] PHP Fatal error:  Call to a member function generatePesan() on null in /home/kpptech/public_html/operation/yulia/knapsack/application/controllers/admin/Transaksi.php on line 35
+[10-Jan-2017 09:34:41 UTC] PHP Fatal error:  Call to a member function lgetAllTransaksiLaporan() on null in /home/kpptech/public_html/operation/yulia/knapsack/application/controllers/admin/Laporan.php on line 24
+[10-Jan-2017 09:35:02 UTC] PHP Fatal error:  Call to a member function lgetAllTransaksiLaporan() on null in /home/kpptech/public_html/operation/yulia/knapsack/application/controllers/admin/Laporan.php on line 24
+[10-Jan-2017 09:35:14 UTC] PHP Fatal error:  Call to undefined method M_transaksi::lgetAllTransaksiLaporan() in /home/kpptech/public_html/operation/yulia/knapsack/application/controllers/admin/Laporan.php on line 24
+[10-Jan-2017 09:39:33 UTC] PHP Fatal error:  Call to a member function result_array() on boolean in /home/kpptech/public_html/operation/yulia/knapsack/application/models/M_transaksi.php on line 34
+[10-Jan-2017 09:40:17 UTC] PHP Fatal error:  Call to a member function result_array() on boolean in /home/kpptech/public_html/operation/yulia/knapsack/application/models/M_transaksi.php on line 34
+[10-Jan-2017 09:47:23 UTC] PHP Fatal error:  Call to a member function result_array() on boolean in /home/kpptech/public_html/operation/yulia/knapsack/application/models/M_transaksi.php on line 34
+[11-Jan-2017 03:05:40 Asia/jakarta] PHP Fatal error:  Call to a member function result_array() on boolean in /home/kpptech/public_html/operation/yulia/knapsack/application/models/M_transaksi.php on line 21
+[11-Jan-2017 06:00:52 Asia/jakarta] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 72 bytes) in /home/kpptech/public_html/operation/yulia/knapsack/application/libraries/Myknapsack.php on line 169
+[11-Jan-2017 06:01:11 Asia/jakarta] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 72 bytes) in /home/kpptech/public_html/operation/yulia/knapsack/application/libraries/Myknapsack.php on line 169
+[11-Jan-2017 06:02:34 Asia/jakarta] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 32 bytes) in /home/kpptech/public_html/operation/yulia/knapsack/application/libraries/Myknapsack.php on line 233
+[11-Jan-2017 06:12:34 Asia/jakarta] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 72 bytes) in /home/kpptech/public_html/operation/yulia/knapsack/application/libraries/Myknapsack.php on line 230
+[11-Jan-2017 09:07:58 Asia/jakarta] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 72 bytes) in /home/kpptech/public_html/operation/yulia/knapsack/application/libraries/Myknapsack.php on line 169
+[16-Jan-2017 15:45:32 Asia/jakarta] PHP Fatal error:  Call to a member function result_array() on boolean in /home/kpptech/public_html/operation/yulia/knapsack/application/models/M_transaksi.php on line 48
+[16-Jan-2017 15:47:56 Asia/jakarta] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::left_join() in /home/kpptech/public_html/operation/yulia/knapsack/application/models/M_transaksi.php on line 42
+[16-Jan-2017 15:47:57 Asia/jakarta] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::left_join() in /home/kpptech/public_html/operation/yulia/knapsack/application/models/M_transaksi.php on line 42
+[16-Jan-2017 15:48:05 Asia/jakarta] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::left_join() in /home/kpptech/public_html/operation/yulia/knapsack/application/models/M_transaksi.php on line 42
+[16-Jan-2017 15:48:05 Asia/jakarta] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::left_join() in /home/kpptech/public_html/operation/yulia/knapsack/application/models/M_transaksi.php on line 42
+[16-Jan-2017 16:05:30 Asia/jakarta] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 72 bytes) in /home/kpptech/public_html/operation/yulia/knapsack/application/libraries/Myknapsack.php on line 169
+[16-Jan-2017 16:07:03 Asia/jakarta] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 72 bytes) in /home/kpptech/public_html/operation/yulia/knapsack/application/libraries/Myknapsack.php on line 169
+[16-Jan-2017 16:26:10 Asia/jakarta] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 72 bytes) in /home/kpptech/public_html/operation/yulia/knapsack/application/libraries/Myknapsack.php on line 169
+[17-Jan-2017 10:07:47 Asia/jakarta] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/kpptech/public_html/operation/yulia/knapsack/system/database/drivers/mysqli/mysqli_driver.php on line 305
+[17-Jan-2017 10:29:38 Asia/jakarta] PHP Parse error:  syntax error, unexpected ';' in /home/kpptech/public_html/operation/yulia/knapsack/application/views/member/transaksi/detail_approval.php on line 181
+[17-Jan-2017 10:29:39 Asia/jakarta] PHP Parse error:  syntax error, unexpected ';' in /home/kpptech/public_html/operation/yulia/knapsack/application/views/member/transaksi/detail_approval.php on line 181
+[17-Jan-2017 03:37:49 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/kpptech/public_html/operation/yulia/knapsack/application/views/member/transaksi/detail_approval.php on line 238
+[17-Jan-2017 03:38:06 UTC] PHP Parse error:  syntax error, unexpected ')', expecting ',' or ';' in /home/kpptech/public_html/operation/yulia/knapsack/application/views/member/transaksi/detail_approval.php on line 254
+[17-Jan-2017 03:38:27 UTC] PHP Parse error:  syntax error, unexpected ')', expecting ',' or ';' in /home/kpptech/public_html/operation/yulia/knapsack/application/views/member/transaksi/detail_approval.php on line 254
+[17-Jan-2017 03:38:58 UTC] PHP Parse error:  syntax error, unexpected ')', expecting ',' or ';' in /home/kpptech/public_html/operation/yulia/knapsack/application/views/member/transaksi/detail_approval.php on line 254
+[17-Jan-2017 11:16:26 Asia/jakarta] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 72 bytes) in /home/kpptech/public_html/operation/yulia/knapsack/application/libraries/Myknapsack.php on line 230
+[17-Jan-2017 11:19:33 Asia/jakarta] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 72 bytes) in /home/kpptech/public_html/operation/yulia/knapsack/application/libraries/Myknapsack.php on line 230
+[17-Jan-2017 13:22:12 UTC] PHP Fatal error:  Call to a member function real_escape_string() on boolean in /home/kpptech/public_html/operation/yulia/knapsack/system/database/drivers/mysqli/mysqli_driver.php on line 391
+[17-Jan-2017 13:22:19 UTC] PHP Fatal error:  Call to a member function real_escape_string() on boolean in /home/kpptech/public_html/operation/yulia/knapsack/system/database/drivers/mysqli/mysqli_driver.php on line 391
+[17-Jan-2017 13:23:00 UTC] PHP Fatal error:  Call to a member function real_escape_string() on boolean in /home/kpptech/public_html/operation/yulia/knapsack/system/database/drivers/mysqli/mysqli_driver.php on line 391
+[17-Jan-2017 13:23:30 UTC] PHP Fatal error:  Call to a member function real_escape_string() on boolean in /home/kpptech/public_html/operation/yulia/knapsack/system/database/drivers/mysqli/mysqli_driver.php on line 391
+[18-Jan-2017 09:19:27 Asia/jakarta] PHP Fatal error:  Call to a member function result_array() on boolean in /home/kpptech/public_html/operation/yulia/knapsack/application/models/M_transaksi.php on line 48
+[18-Jan-2017 03:12:19 UTC] PHP Fatal error:  Call to undefined method M_umum::getAllProfil() in /home/kpptech/public_html/operation/yulia/knapsack/application/controllers/Pages.php on line 21
+[18-Jan-2017 03:12:26 UTC] PHP Fatal error:  Call to a member function getAllArticleActive() on null in /home/kpptech/public_html/operation/yulia/knapsack/application/controllers/Pages.php on line 36
+[18-Jan-2017 04:27:31 UTC] PHP Fatal error:  Call to undefined function form_error() in /home/kpptech/public_html/operation/yulia/knapsack/application/views/home/register.php on line 43
+[18-Jan-2017 04:31:39 UTC] PHP Fatal error:  Call to undefined function form_error() in /home/kpptech/public_html/operation/yulia/knapsack/application/views/home/register.php on line 43
+[18-Jan-2017 04:34:06 UTC] PHP Fatal error:  Call to undefined function form_error() in /home/kpptech/public_html/operation/yulia/knapsack/application/views/home/register.php on line 43
+[18-Jan-2017 04:36:18 UTC] PHP Fatal error:  Call to undefined function form_error() in /home/kpptech/public_html/operation/yulia/knapsack/application/views/home/register.php on line 43
+[18-Jan-2017 04:37:31 UTC] PHP Fatal error:  Call to undefined function form_error() in /home/kpptech/public_html/operation/yulia/knapsack/application/views/home/register.php on line 32
+[18-Jan-2017 04:37:42 UTC] PHP Fatal error:  Call to undefined function form_error() in /home/kpptech/public_html/operation/yulia/knapsack/application/views/home/register.php on line 42
+[18-Jan-2017 04:37:57 UTC] PHP Fatal error:  Call to undefined function form_error() in /home/kpptech/public_html/operation/yulia/knapsack/application/views/home/register.php on line 43
+[18-Jan-2017 04:38:08 UTC] PHP Fatal error:  Call to undefined function form_error() in /home/kpptech/public_html/operation/yulia/knapsack/application/views/home/register.php on line 43
+[19-Jan-2017 02:29:53 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/kpptech/public_html/operation/yulia/knapsack/application/models/M_umum.php on line 16
+[19-Jan-2017 02:29:54 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/kpptech/public_html/operation/yulia/knapsack/application/models/M_umum.php on line 16
+[19-Jan-2017 11:05:20 Asia/jakarta] PHP Parse error:  syntax error, unexpected end of file, expecting ',' or ';' in /home/kpptech/public_html/operation/yulia/knapsack/application/views/member/laporan/cetak.php on line 62
+[19-Jan-2017 11:50:56 Asia/jakarta] PHP Parse error:  syntax error, unexpected end of file in /home/kpptech/public_html/operation/yulia/knapsack/application/views/member/laporan/cetak.php on line 144
+[19-Jan-2017 11:50:57 Asia/jakarta] PHP Parse error:  syntax error, unexpected end of file in /home/kpptech/public_html/operation/yulia/knapsack/application/views/member/laporan/cetak.php on line 144
+[19-Jan-2017 11:51:28 Asia/jakarta] PHP Parse error:  syntax error, unexpected end of file in /home/kpptech/public_html/operation/yulia/knapsack/application/views/member/laporan/cetak.php on line 144
+[19-Jan-2017 11:51:29 Asia/jakarta] PHP Parse error:  syntax error, unexpected end of file in /home/kpptech/public_html/operation/yulia/knapsack/application/views/member/laporan/cetak.php on line 144
+[19-Jan-2017 11:51:33 Asia/jakarta] PHP Parse error:  syntax error, unexpected end of file in /home/kpptech/public_html/operation/yulia/knapsack/application/views/member/laporan/cetak.php on line 144
+[19-Jan-2017 11:51:34 Asia/jakarta] PHP Parse error:  syntax error, unexpected end of file in /home/kpptech/public_html/operation/yulia/knapsack/application/views/member/laporan/cetak.php on line 144
+[19-Jan-2017 11:51:34 Asia/jakarta] PHP Parse error:  syntax error, unexpected end of file in /home/kpptech/public_html/operation/yulia/knapsack/application/views/member/laporan/cetak.php on line 144
+[19-Jan-2017 11:51:34 Asia/jakarta] PHP Parse error:  syntax error, unexpected end of file in /home/kpptech/public_html/operation/yulia/knapsack/application/views/member/laporan/cetak.php on line 144
+[19-Jan-2017 11:51:35 Asia/jakarta] PHP Parse error:  syntax error, unexpected end of file in /home/kpptech/public_html/operation/yulia/knapsack/application/views/member/laporan/cetak.php on line 144
+[19-Jan-2017 18:05:38 Asia/jakarta] PHP Fatal error:  Call to a member function result_array() on boolean in /home/kpptech/public_html/operation/yulia/knapsack/application/models/M_transaksi.php on line 48
+[21-Jan-2017 15:27:54 Asia/jakarta] PHP Fatal error:  Call to a member function result_array() on boolean in /home/kpptech/public_html/operation/yulia/knapsack/application/models/M_transaksi.php on line 48
+[22-Jan-2017 06:46:50 UTC] PHP Fatal error:  Call to a member function result_array() on boolean in /home/kpptech/public_html/operation/yulia/knapsack/application/models/M_transaksi.php on line 34
+[22-Jan-2017 06:46:52 UTC] PHP Fatal error:  Call to a member function result_array() on boolean in /home/kpptech/public_html/operation/yulia/knapsack/application/models/M_transaksi.php on line 34
+[22-Jan-2017 08:39:45 UTC] PHP Fatal error:  Call to a member function result_array() on boolean in /home/kpptech/public_html/operation/yulia/knapsack/application/models/M_transaksi.php on line 34
+[22-Jan-2017 08:39:47 UTC] PHP Fatal error:  Call to a member function result_array() on boolean in /home/kpptech/public_html/operation/yulia/knapsack/application/models/M_transaksi.php on line 34
+[22-Jan-2017 19:55:05 Asia/jakarta] PHP Fatal error:  Call to a member function result_array() on boolean in /home/kpptech/public_html/operation/yulia/knapsack/application/models/M_transaksi.php on line 48
+[23-Jan-2017 01:17:32 UTC] PHP Fatal error:  Call to a member function result_array() on boolean in /home/kpptech/public_html/operation/yulia/knapsack/application/models/M_transaksi.php on line 34
+[28-Feb-2017 14:09:31 UTC] PHP Fatal error:  Call to a member function set_newline() on null in /home/kpptech/public_html/operation/fathi/aci/application/controllers/admin/Login.php on line 68
+[28-Feb-2017 14:10:31 UTC] PHP Fatal error:  Call to a member function set_newline() on null in /home/kpptech/public_html/operation/fathi/aci/application/controllers/admin/Login.php on line 68
+[28-Feb-2017 14:11:33 UTC] PHP Fatal error:  Call to a member function set_newline() on null in /home/kpptech/public_html/operation/fathi/aci/application/controllers/admin/Login.php on line 68
+[28-Feb-2017 14:34:21 UTC] PHP Fatal error:  Call to a member function num_rows() on boolean in /home/kpptech/public_html/operation/fathi/aci/application/models/M_login.php on line 20
+[28-Feb-2017 14:34:31 UTC] PHP Fatal error:  Call to a member function num_rows() on boolean in /home/kpptech/public_html/operation/fathi/aci/application/models/M_login.php on line 20
+[28-Feb-2017 15:06:14 UTC] PHP Fatal error:  Call to undefined method Login::session() in /home/kpptech/public_html/operation/fathi/aci/application/controllers/admin/Login.php on line 21
+[28-Feb-2017 15:07:49 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/kpptech/public_html/operation/fathi/aci/application/models/M_login.php on line 36
+[28-Feb-2017 15:08:00 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/kpptech/public_html/operation/fathi/aci/application/models/M_login.php on line 36
+[28-Feb-2017 15:49:52 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/kpptech/public_html/operation/fathi/aci/application/controllers/admin/Login.php on line 51
+[01-Mar-2017 01:51:52 UTC] PHP Parse error:  syntax error, unexpected 'list' (T_LIST), expecting identifier (T_STRING) in /home/kpptech/public_html/operation/fathi/aci/application/controllers/admin/Fakultas.php on line 18
+[01-Mar-2017 01:52:04 UTC] PHP Fatal error:  Call to undefined method M_fakultas::ist_fakultas() in /home/kpptech/public_html/operation/fathi/aci/application/controllers/admin/Fakultas.php on line 20
+[01-Mar-2017 01:52:15 UTC] PHP Fatal error:  Call to undefined method M_fakultas::list_fakultas() in /home/kpptech/public_html/operation/fathi/aci/application/controllers/admin/Fakultas.php on line 20
+[01-Mar-2017 02:45:42 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::input() in /home/kpptech/public_html/operation/fathi/aci/application/controllers/admin/ProgramStudy.php on line 26
+[01-Mar-2017 02:48:41 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/kpptech/public_html/operation/fathi/aci/application/views/member/programStudy/list.php on line 194
+[01-Mar-2017 02:52:05 UTC] PHP Fatal error:  First array member is not a valid class name or object in /home/kpptech/public_html/operation/fathi/aci/application/models/M_programStudy.php on line 25
+[01-Mar-2017 02:52:51 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/kpptech/public_html/operation/fathi/aci/application/views/member/programStudy/list.php on line 194
+[01-Mar-2017 03:37:00 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/kpptech/public_html/operation/fathi/aci/application/models/M_programStudy.php on line 32
+[01-Mar-2017 03:43:38 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/kpptech/public_html/operation/fathi/aci/application/views/member/programStudy/edit.php on line 156
+[01-Mar-2017 21:57:53 UTC] PHP Fatal error:  Call to undefined method CI_Loader::session() in /home/kpptech/public_html/operation/fathi/aci/application/views/member/pengajuan/Pengajuan.php on line 136
+[01-Mar-2017 22:14:49 UTC] PHP Parse error:  syntax error, unexpected '""' (T_CONSTANT_ENCAPSED_STRING), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/kpptech/public_html/operation/fathi/aci/application/models/M_login.php on line 17
+[01-Mar-2017 22:15:14 UTC] PHP Parse error:  syntax error, unexpected '""' (T_CONSTANT_ENCAPSED_STRING), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/kpptech/public_html/operation/fathi/aci/application/models/M_login.php on line 17
+[01-Mar-2017 22:15:17 UTC] PHP Parse error:  syntax error, unexpected '""' (T_CONSTANT_ENCAPSED_STRING), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/kpptech/public_html/operation/fathi/aci/application/models/M_login.php on line 17
+[01-Mar-2017 22:16:59 UTC] PHP Parse error:  syntax error, unexpected '""' (T_CONSTANT_ENCAPSED_STRING), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/kpptech/public_html/operation/fathi/aci/application/models/M_login.php on line 17
+[02-Mar-2017 00:49:00 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/kpptech/public_html/operation/fathi/aci/application/controllers/admin/Pengajuan.php on line 51
+[02-Mar-2017 03:01:14 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/kpptech/public_html/operation/fathi/aci/application/controllers/admin/Login.php on line 69
+[02-Mar-2017 03:01:26 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/kpptech/public_html/operation/fathi/aci/application/controllers/admin/Login.php on line 69
+[02-Mar-2017 03:01:49 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/kpptech/public_html/operation/fathi/aci/application/controllers/admin/Login.php on line 69
+[02-Mar-2017 03:09:19 UTC] PHP Fatal error:  Call to a member function htmlmail() on null in /home/kpptech/public_html/operation/fathi/aci/application/controllers/admin/Login.php on line 72
+[22-Mar-2017 03:03:37 UTC] PHP Fatal error:  Call to undefined function segment() in /home/kpptech/public_html/operation/fathi/aci/application/controllers/admin/Proses.php on line 84
+[23-Mar-2017 08:56:35 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/kpptech/public_html/operation/fathi/aci/application/views/member/pengajuan/Pengajuan.php on line 316
+[23-Mar-2017 08:56:49 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/kpptech/public_html/operation/fathi/aci/application/views/member/pengajuan/Pengajuan.php on line 316
+[23-Mar-2017 08:57:13 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/kpptech/public_html/operation/fathi/aci/application/views/member/pengajuan/Pengajuan.php on line 317
+[23-Mar-2017 08:57:45 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/kpptech/public_html/operation/fathi/aci/application/views/member/pengajuan/Pengajuan.php on line 317
+[23-Mar-2017 08:58:09 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/kpptech/public_html/operation/fathi/aci/application/views/member/pengajuan/Pengajuan.php on line 317
+[23-Mar-2017 08:58:36 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/kpptech/public_html/operation/fathi/aci/application/views/member/pengajuan/Pengajuan.php on line 321
+[23-Mar-2017 09:19:36 UTC] PHP Fatal error:  Call to a member function result_array() on boolean in /home/kpptech/public_html/operation/fathi/aci/application/models/M_analisa.php on line 119
+[23-Mar-2017 09:22:03 UTC] PHP Fatal error:  Call to a member function result_array() on boolean in /home/kpptech/public_html/operation/fathi/aci/application/models/M_analisa.php on line 17
+[23-Mar-2017 09:22:12 UTC] PHP Fatal error:  Call to a member function result_array() on boolean in /home/kpptech/public_html/operation/fathi/aci/application/models/M_analisa.php on line 17
+[23-Mar-2017 09:22:37 UTC] PHP Fatal error:  Call to a member function result_array() on boolean in /home/kpptech/public_html/operation/fathi/aci/application/models/M_analisa.php on line 17
+[23-Mar-2017 09:53:49 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/kpptech/public_html/operation/fathi/aci/application/views/member/analisa/detil_analisa.php on line 345
+[23-Mar-2017 10:24:35 UTC] PHP Fatal error:  Call to a member function getAllCategory() on null in /home/kpptech/public_html/operation/fathi/aci/application/controllers/admin/Artikel.php on line 107
+[23-Mar-2017 10:25:40 UTC] PHP Fatal error:  Call to undefined method stdClass::editor() in /home/kpptech/public_html/operation/fathi/aci/application/views/member/artikel/add.php on line 164
+[23-Mar-2017 10:26:42 UTC] PHP Fatal error:  Call to undefined method stdClass::editor() in /home/kpptech/public_html/operation/fathi/aci/application/views/member/artikel/add.php on line 164
+[23-Mar-2017 10:27:00 UTC] PHP Fatal error:  Call to undefined method stdClass::editor() in /home/kpptech/public_html/operation/fathi/aci/application/views/member/artikel/add.php on line 164
+[23-Mar-2017 10:29:19 UTC] PHP Fatal error:  Call to undefined method stdClass::editor() in /home/kpptech/public_html/operation/fathi/aci/application/views/member/artikel/add.php on line 164
+[23-Mar-2017 10:30:12 UTC] PHP Fatal error:  Call to undefined method stdClass::editor() in /home/kpptech/public_html/operation/fathi/aci/application/views/member/artikel/add.php on line 164
+[23-Mar-2017 10:31:21 UTC] PHP Fatal error:  Call to undefined method stdClass::editor() in /home/kpptech/public_html/operation/fathi/aci/application/views/member/artikel/add.php on line 164
+[23-Mar-2017 10:31:50 UTC] PHP Fatal error:  Call to undefined method stdClass::editor() in /home/kpptech/public_html/operation/fathi/aci/application/views/member/artikel/add.php on line 164
+[23-Mar-2017 10:31:50 UTC] PHP Fatal error:  Call to undefined method stdClass::editor() in /home/kpptech/public_html/operation/fathi/aci/application/views/member/artikel/add.php on line 164
+[23-Mar-2017 10:31:54 UTC] PHP Fatal error:  Call to undefined method stdClass::editor() in /home/kpptech/public_html/operation/fathi/aci/application/views/member/artikel/add.php on line 164
+[23-Mar-2017 10:32:09 UTC] PHP Fatal error:  Call to undefined method stdClass::editor() in /home/kpptech/public_html/operation/fathi/aci/application/views/member/artikel/add.php on line 164
+[23-Mar-2017 10:34:24 UTC] PHP Fatal error:  Cannot re-assign $this in /home/kpptech/public_html/operation/fathi/aci/application/controllers/admin/Artikel.php on line 24
+[23-Mar-2017 10:35:18 UTC] PHP Fatal error:  Call to undefined method stdClass::editor() in /home/kpptech/public_html/operation/fathi/aci/application/views/member/artikel/add.php on line 164
+[23-Mar-2017 10:38:09 UTC] PHP Fatal error:  Call to a member function generatePesan() on null in /home/kpptech/public_html/operation/fathi/aci/application/controllers/admin/Artikel.php on line 48
+[23-Mar-2017 10:38:44 UTC] PHP Fatal error:  Call to a member function generatePesan() on null in /home/kpptech/public_html/operation/fathi/aci/application/controllers/admin/Artikel.php on line 48
+[27-Mar-2017 08:02:05 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/kpptech/public_html/operation/fathi/aci/application/views/member/Login.php on line 339
+[27-Mar-2017 08:02:59 UTC] PHP Parse error:  syntax error, unexpected ''assets' (T_ENCAPSED_AND_WHITESPACE) in /home/kpptech/public_html/operation/fathi/aci/application/views/member/Login.php on line 319
+[27-Mar-2017 11:45:34 UTC] PHP Fatal error:  Call to a member function getAllArticleActive() on null in /home/kpptech/public_html/operation/fathi/aci/application/views/member/Login.php on line 47
+[27-Mar-2017 11:45:45 UTC] PHP Fatal error:  Call to a member function getAllArticleActive() on null in /home/kpptech/public_html/operation/fathi/aci/application/views/member/Login.php on line 46
+[27-Mar-2017 11:46:09 UTC] PHP Fatal error:  Call to a member function getAllArticleActive() on null in /home/kpptech/public_html/operation/fathi/aci/application/views/member/Login.php on line 47
+[27-Mar-2017 11:46:21 UTC] PHP Fatal error:  Call to a member function getAllArticleActive() on null in /home/kpptech/public_html/operation/fathi/aci/application/views/member/Login.php on line 47
+[27-Mar-2017 11:46:40 UTC] PHP Fatal error:  Call to a member function getAllArticleActive() on null in /home/kpptech/public_html/operation/fathi/aci/application/views/member/Login.php on line 47
+[27-Mar-2017 11:49:31 UTC] PHP Fatal error:  Call to a member function getAllArticleActive() on null in /home/kpptech/public_html/operation/fathi/aci/application/views/member/Login.php on line 47
+[27-Mar-2017 11:49:43 UTC] PHP Fatal error:  Call to a member function getAllArticleActive() on null in /home/kpptech/public_html/operation/fathi/aci/application/views/member/Login.php on line 47
+[27-Mar-2017 11:50:14 UTC] PHP Fatal error:  Call to a member function getAllArticleActive() on null in /home/kpptech/public_html/operation/fathi/aci/application/views/member/Login.php on line 47
+[27-Mar-2017 11:50:15 UTC] PHP Fatal error:  Call to a member function getAllArticleActive() on null in /home/kpptech/public_html/operation/fathi/aci/application/views/member/Login.php on line 47
+[27-Mar-2017 11:50:26 UTC] PHP Fatal error:  Call to a member function getAllArticleActive() on null in /home/kpptech/public_html/operation/fathi/aci/application/views/member/Login.php on line 47
+[27-Mar-2017 11:50:27 UTC] PHP Fatal error:  Call to a member function getAllArticleActive() on null in /home/kpptech/public_html/operation/fathi/aci/application/views/member/Login.php on line 47
+[27-Mar-2017 11:50:52 UTC] PHP Fatal error:  Call to a member function getAllArticleActive() on null in /home/kpptech/public_html/operation/fathi/aci/application/views/member/Login.php on line 47
+[30-Mar-2017 07:11:39 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/kpptech/public_html/operation/fathi/aci/application/views/member/include/sidebar_menu.php on line 106
+[03-Apr-2017 14:42:30 UTC] PHP Fatal error:  Call to a member function generatePesan() on null in /home/kpptech/public_html/operation/fathi/aci/application/controllers/admin/Kriteria.php on line 64
+[03-Apr-2017 14:43:53 UTC] PHP Fatal error:  Call to a member function generatePesan() on null in /home/kpptech/public_html/operation/fathi/aci/application/controllers/admin/Kriteria.php on line 67
+[03-Apr-2017 14:44:21 UTC] PHP Fatal error:  Call to a member function generatePesan() on null in /home/kpptech/public_html/operation/fathi/aci/application/controllers/admin/Kriteria.php on line 64
+[03-Apr-2017 14:44:27 UTC] PHP Fatal error:  Call to a member function generatePesan() on null in /home/kpptech/public_html/operation/fathi/aci/application/controllers/admin/Kriteria.php on line 67
+[03-Apr-2017 14:46:53 UTC] PHP Fatal error:  Call to a member function generatePesan() on null in /home/kpptech/public_html/operation/fathi/aci/application/controllers/admin/Kriteria.php on line 65
+[03-Apr-2017 14:48:26 UTC] PHP Fatal error:  Call to a member function generatePesan() on null in /home/kpptech/public_html/operation/fathi/aci/application/controllers/admin/Kriteria.php on line 65
+[03-Apr-2017 14:49:03 UTC] PHP Fatal error:  Call to a member function generatePesan() on null in /home/kpptech/public_html/operation/fathi/aci/application/controllers/admin/Kriteria.php on line 68
+[03-Apr-2017 14:51:32 UTC] PHP Fatal error:  Call to a member function generatePesan() on null in /home/kpptech/public_html/operation/fathi/aci/application/controllers/admin/Kriteria.php on line 66
+[03-Apr-2017 15:00:22 UTC] PHP Fatal error:  Call to a member function generatePesan() on null in /home/kpptech/public_html/operation/fathi/aci/application/controllers/admin/Kriteria.php on line 66
+[04-Apr-2017 14:36:21 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/kpptech/public_html/operation/fathi/aci/application/controllers/admin/Dosen.php on line 93
+[04-Apr-2017 14:36:21 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/kpptech/public_html/operation/fathi/aci/application/controllers/admin/Dosen.php on line 93
+[04-Apr-2017 14:36:24 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/kpptech/public_html/operation/fathi/aci/application/controllers/admin/Dosen.php on line 93
+[04-Apr-2017 23:46:12 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/kpptech/public_html/operation/fathi/aci/application/views/member/include/topnavbar.php on line 166
+[04-Apr-2017 23:53:01 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/kpptech/public_html/operation/fathi/aci/application/views/member/include/topnavbar.php on line 169
+[05-Apr-2017 00:02:05 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/kpptech/public_html/operation/fathi/aci/application/views/member/include/topnavbar.php on line 158
+[05-Apr-2017 00:02:09 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/kpptech/public_html/operation/fathi/aci/application/views/member/include/topnavbar.php on line 158
+[05-Apr-2017 00:02:18 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/kpptech/public_html/operation/fathi/aci/application/views/member/include/topnavbar.php on line 158
+[06-Apr-2017 15:42:10 UTC] PHP Fatal error:  Call to a member function detailHasil() on null in /home/kpptech/public_html/operation/fathi/aci/application/controllers/admin/Proses.php on line 22
+[06-Apr-2017 15:42:13 UTC] PHP Fatal error:  Call to a member function detailHasil() on null in /home/kpptech/public_html/operation/fathi/aci/application/controllers/admin/Proses.php on line 22
+[06-Apr-2017 15:42:23 UTC] PHP Fatal error:  Call to a member function result_array() on boolean in /home/kpptech/public_html/operation/fathi/aci/application/models/M_analisa.php on line 140
+[06-Apr-2017 15:43:09 UTC] PHP Fatal error:  Call to a member function result_array() on boolean in /home/kpptech/public_html/operation/fathi/aci/application/models/M_analisa.php on line 140
+[06-Apr-2017 15:43:30 UTC] PHP Fatal error:  Call to a member function result_array() on boolean in /home/kpptech/public_html/operation/fathi/aci/application/models/M_analisa.php on line 140
+[06-Apr-2017 15:44:09 UTC] PHP Fatal error:  Call to a member function result() on boolean in /home/kpptech/public_html/operation/fathi/aci/application/models/M_analisa.php on line 140
+[06-Apr-2017 15:44:28 UTC] PHP Fatal error:  Call to a member function result_array() on boolean in /home/kpptech/public_html/operation/fathi/aci/application/models/M_analisa.php on line 140
+[06-Apr-2017 15:44:54 UTC] PHP Fatal error:  Call to a member function result_array() on boolean in /home/kpptech/public_html/operation/fathi/aci/application/models/M_analisa.php on line 140
+[06-Apr-2017 16:22:22 UTC] PHP Parse error:  syntax error, unexpected '$insertSubData' (T_VARIABLE), expecting ',' or ';' in /home/kpptech/public_html/operation/fathi/aci/application/controllers/admin/Proses.php on line 178
+[06-Apr-2017 16:22:30 UTC] PHP Parse error:  syntax error, unexpected '$insertSubData' (T_VARIABLE), expecting ',' or ';' in /home/kpptech/public_html/operation/fathi/aci/application/controllers/admin/Proses.php on line 178
+[06-Apr-2017 16:22:45 UTC] PHP Parse error:  syntax error, unexpected '$insertSubData' (T_VARIABLE), expecting ',' or ';' in /home/kpptech/public_html/operation/fathi/aci/application/controllers/admin/Proses.php on line 178
+[06-Apr-2017 16:31:14 UTC] PHP Fatal error:  Call to a member function num_rows() on array in /home/kpptech/public_html/operation/fathi/aci/application/controllers/admin/Proses.php on line 177
+[06-Apr-2017 16:32:41 UTC] PHP Fatal error:  Can't use method return value in write context in /home/kpptech/public_html/operation/fathi/aci/application/controllers/admin/Proses.php on line 177
+[06-Apr-2017 16:32:45 UTC] PHP Fatal error:  Can't use method return value in write context in /home/kpptech/public_html/operation/fathi/aci/application/controllers/admin/Proses.php on line 177
+[06-Apr-2017 16:32:46 UTC] PHP Fatal error:  Can't use method return value in write context in /home/kpptech/public_html/operation/fathi/aci/application/controllers/admin/Proses.php on line 177
+[06-Apr-2017 16:32:49 UTC] PHP Fatal error:  Can't use method return value in write context in /home/kpptech/public_html/operation/fathi/aci/application/controllers/admin/Proses.php on line 177
+[06-Apr-2017 16:33:05 UTC] PHP Fatal error:  Call to a member function num_rows() on array in /home/kpptech/public_html/operation/fathi/aci/application/controllers/admin/Proses.php on line 177
+[06-Apr-2017 16:34:09 UTC] PHP Fatal error:  Call to a member function num_rows() on array in /home/kpptech/public_html/operation/fathi/aci/application/controllers/admin/Proses.php on line 177
+[06-Apr-2017 16:35:20 UTC] PHP Fatal error:  Call to a member function num_rows() on array in /home/kpptech/public_html/operation/fathi/aci/application/controllers/admin/Proses.php on line 177
+[06-Apr-2017 16:36:01 UTC] PHP Fatal error:  Call to a member function num_rows() on array in /home/kpptech/public_html/operation/fathi/aci/application/controllers/admin/Proses.php on line 177
+[06-Apr-2017 16:36:21 UTC] PHP Fatal error:  Call to a member function num_rows() on array in /home/kpptech/public_html/operation/fathi/aci/application/controllers/admin/Proses.php on line 177
+[06-Apr-2017 16:39:35 UTC] PHP Fatal error:  Call to a member function count() on null in /home/kpptech/public_html/operation/fathi/aci/application/controllers/admin/Proses.php on line 177
+[06-Apr-2017 16:40:11 UTC] PHP Fatal error:  Call to a member function count() on string in /home/kpptech/public_html/operation/fathi/aci/application/controllers/admin/Proses.php on line 177
+[06-Apr-2017 16:45:55 UTC] PHP Parse error:  syntax error, unexpected '"', expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/kpptech/public_html/operation/fathi/aci/application/controllers/admin/Proses.php on line 180
+[06-Apr-2017 16:51:22 UTC] PHP Fatal error:  Call to a member function row_array() on boolean in /home/kpptech/public_html/operation/fathi/aci/application/models/M_pengajuan.php on line 188
+[06-Apr-2017 16:51:55 UTC] PHP Fatal error:  Call to a member function row_array() on boolean in /home/kpptech/public_html/operation/fathi/aci/application/models/M_pengajuan.php on line 188
+[06-Apr-2017 16:52:22 UTC] PHP Fatal error:  Call to a member function row_array() on boolean in /home/kpptech/public_html/operation/fathi/aci/application/models/M_pengajuan.php on line 188
+[06-Apr-2017 16:52:39 UTC] PHP Fatal error:  Call to a member function row_array() on boolean in /home/kpptech/public_html/operation/fathi/aci/application/models/M_pengajuan.php on line 188
+[06-Apr-2017 16:53:16 UTC] PHP Fatal error:  Call to a member function row_array() on boolean in /home/kpptech/public_html/operation/fathi/aci/application/models/M_pengajuan.php on line 188
+[06-Apr-2017 16:53:54 UTC] PHP Fatal error:  Call to a member function row_array() on boolean in /home/kpptech/public_html/operation/fathi/aci/application/models/M_pengajuan.php on line 188
+[06-Apr-2017 16:54:14 UTC] PHP Fatal error:  Call to a member function result_array() on boolean in /home/kpptech/public_html/operation/fathi/aci/application/models/M_pengajuan.php on line 188
+[06-Apr-2017 16:55:00 UTC] PHP Fatal error:  Call to a member function row_array() on boolean in /home/kpptech/public_html/operation/fathi/aci/application/models/M_pengajuan.php on line 188
+[06-Apr-2017 16:55:23 UTC] PHP Fatal error:  Call to a member function row_array() on boolean in /home/kpptech/public_html/operation/fathi/aci/application/models/M_pengajuan.php on line 188
+[06-Apr-2017 16:56:48 UTC] PHP Fatal error:  Call to a member function result_array() on boolean in /home/kpptech/public_html/operation/fathi/aci/application/models/M_pengajuan.php on line 188
+[11-Apr-2017 16:46:06 UTC] PHP Parse error:  syntax error, unexpected 'as' (T_AS) in /home/kpptech/public_html/operation/fathi/aci/application/views/member/Login.php on line 79
+[11-Apr-2017 16:46:16 UTC] PHP Parse error:  syntax error, unexpected 'as' (T_AS) in /home/kpptech/public_html/operation/fathi/aci/application/views/member/Login.php on line 79
+[12-Apr-2017 08:38:14 UTC] PHP Fatal error:  Call to a member function real_escape_string() on boolean in /home/kpptech/public_html/operation/fathi/aci/system/database/drivers/mysqli/mysqli_driver.php on line 391
+[14-Apr-2017 17:27:28 UTC] PHP Fatal error:  Call to a member function real_escape_string() on boolean in /home/kpptech/public_html/operation/fathi/aci_g/system/database/drivers/mysqli/mysqli_driver.php on line 391
+[19-Apr-2017 03:23:43 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/kpptech/public_html/operation/fathi/aci/application/views/member/pengajuan/edit.php on line 232
+[19-Apr-2017 03:24:08 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/kpptech/public_html/operation/fathi/aci/application/views/member/pengajuan/edit.php on line 232
+[19-Apr-2017 03:30:16 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/kpptech/public_html/operation/fathi/aci/application/views/member/pengajuan/edit.php on line 327
+[27-Apr-2017 15:13:26 UTC] PHP Fatal error:  Call to a member function real_escape_string() on boolean in /home/kpptech/public_html/operation/fathi/aci/system/database/drivers/mysqli/mysqli_driver.php on line 391
+[27-Apr-2017 15:13:31 UTC] PHP Fatal error:  Call to a member function real_escape_string() on boolean in /home/kpptech/public_html/operation/fathi/aci/system/database/drivers/mysqli/mysqli_driver.php on line 391
+[27-Apr-2017 15:13:33 UTC] PHP Fatal error:  Call to a member function real_escape_string() on boolean in /home/kpptech/public_html/operation/fathi/aci/system/database/drivers/mysqli/mysqli_driver.php on line 391
+[27-Apr-2017 15:13:34 UTC] PHP Fatal error:  Call to a member function real_escape_string() on boolean in /home/kpptech/public_html/operation/fathi/aci/system/database/drivers/mysqli/mysqli_driver.php on line 391
+[27-Apr-2017 15:13:35 UTC] PHP Fatal error:  Call to a member function real_escape_string() on boolean in /home/kpptech/public_html/operation/fathi/aci/system/database/drivers/mysqli/mysqli_driver.php on line 391
+[27-Apr-2017 15:13:35 UTC] PHP Fatal error:  Call to a member function real_escape_string() on boolean in /home/kpptech/public_html/operation/fathi/aci/system/database/drivers/mysqli/mysqli_driver.php on line 391
+[27-Apr-2017 15:13:36 UTC] PHP Fatal error:  Call to a member function real_escape_string() on boolean in /home/kpptech/public_html/operation/fathi/aci/system/database/drivers/mysqli/mysqli_driver.php on line 391
+[27-Apr-2017 15:13:44 UTC] PHP Fatal error:  Call to a member function real_escape_string() on boolean in /home/kpptech/public_html/operation/fathi/aci/system/database/drivers/mysqli/mysqli_driver.php on line 391
+[27-Apr-2017 15:13:47 UTC] PHP Fatal error:  Call to a member function real_escape_string() on boolean in /home/kpptech/public_html/operation/fathi/aci/system/database/drivers/mysqli/mysqli_driver.php on line 391
+[27-Apr-2017 15:13:54 UTC] PHP Fatal error:  Call to a member function real_escape_string() on boolean in /home/kpptech/public_html/operation/fathi/aci/system/database/drivers/mysqli/mysqli_driver.php on line 391
+[27-Apr-2017 15:14:05 UTC] PHP Fatal error:  Call to a member function real_escape_string() on boolean in /home/kpptech/public_html/operation/fathi/aci/system/database/drivers/mysqli/mysqli_driver.php on line 391
+[27-Apr-2017 15:14:08 UTC] PHP Fatal error:  Call to a member function real_escape_string() on boolean in /home/kpptech/public_html/operation/fathi/aci/system/database/drivers/mysqli/mysqli_driver.php on line 391
+[27-Apr-2017 15:14:12 UTC] PHP Fatal error:  Call to a member function real_escape_string() on boolean in /home/kpptech/public_html/operation/fathi/aci/system/database/drivers/mysqli/mysqli_driver.php on line 391
+[29-May-2017 06:01:46 UTC] PHP Fatal error:  Call to a member function real_escape_string() on boolean in /home/kpptech/public_html/operation/fathi/aci/system/database/drivers/mysqli/mysqli_driver.php on line 391
+[29-May-2017 06:01:57 UTC] PHP Fatal error:  Call to a member function real_escape_string() on boolean in /home/kpptech/public_html/operation/fathi/aci/system/database/drivers/mysqli/mysqli_driver.php on line 391
+[29-May-2017 06:02:00 UTC] PHP Fatal error:  Call to a member function real_escape_string() on boolean in /home/kpptech/public_html/operation/fathi/aci/system/database/drivers/mysqli/mysqli_driver.php on line 391
+[29-May-2017 06:02:11 UTC] PHP Fatal error:  Call to a member function real_escape_string() on boolean in /home/kpptech/public_html/operation/fathi/aci/system/database/drivers/mysqli/mysqli_driver.php on line 391
+[29-May-2017 07:25:19 UTC] PHP Fatal error:  Call to a member function real_escape_string() on boolean in /home/kpptech/public_html/operation/fathi/aci/system/database/drivers/mysqli/mysqli_driver.php on line 391
+[29-May-2017 07:25:25 UTC] PHP Fatal error:  Call to a member function real_escape_string() on boolean in /home/kpptech/public_html/operation/fathi/aci/system/database/drivers/mysqli/mysqli_driver.php on line 391
+[29-May-2017 07:25:33 UTC] PHP Fatal error:  Call to a member function real_escape_string() on boolean in /home/kpptech/public_html/operation/fathi/aci/system/database/drivers/mysqli/mysqli_driver.php on line 391
+[29-May-2017 07:25:44 UTC] PHP Fatal error:  Call to a member function real_escape_string() on boolean in /home/kpptech/public_html/operation/fathi/aci/system/database/drivers/mysqli/mysqli_driver.php on line 391
+[29-May-2017 08:09:31 UTC] PHP Fatal error:  Call to a member function real_escape_string() on boolean in /home/kpptech/public_html/operation/fathi/aci/system/database/drivers/mysqli/mysqli_driver.php on line 391
+[29-May-2017 08:09:34 UTC] PHP Fatal error:  Call to a member function real_escape_string() on boolean in /home/kpptech/public_html/operation/fathi/aci/system/database/drivers/mysqli/mysqli_driver.php on line 391
+[29-May-2017 08:09:34 UTC] PHP Fatal error:  Call to a member function real_escape_string() on boolean in /home/kpptech/public_html/operation/fathi/aci/system/database/drivers/mysqli/mysqli_driver.php on line 391
+[29-May-2017 08:09:34 UTC] PHP Fatal error:  Call to a member function real_escape_string() on boolean in /home/kpptech/public_html/operation/fathi/aci/system/database/drivers/mysqli/mysqli_driver.php on line 391
+[29-May-2017 08:09:40 UTC] PHP Fatal error:  Call to a member function real_escape_string() on boolean in /home/kpptech/public_html/operation/fathi/aci/system/database/drivers/mysqli/mysqli_driver.php on line 391
+[29-May-2017 08:10:05 UTC] PHP Fatal error:  Call to a member function real_escape_string() on boolean in /home/kpptech/public_html/operation/fathi/aci/system/database/drivers/mysqli/mysqli_driver.php on line 391
+[29-May-2017 08:11:18 UTC] PHP Fatal error:  Call to a member function real_escape_string() on boolean in /home/kpptech/public_html/operation/fathi/aci/system/database/drivers/mysqli/mysqli_driver.php on line 391
+[29-May-2017 08:11:27 UTC] PHP Fatal error:  Call to a member function real_escape_string() on boolean in /home/kpptech/public_html/operation/fathi/aci/system/database/drivers/mysqli/mysqli_driver.php on line 391
+[29-May-2017 08:11:32 UTC] PHP Fatal error:  Call to a member function real_escape_string() on boolean in /home/kpptech/public_html/operation/fathi/aci/system/database/drivers/mysqli/mysqli_driver.php on line 391
+[29-May-2017 08:11:35 UTC] PHP Fatal error:  Call to a member function real_escape_string() on boolean in /home/kpptech/public_html/operation/fathi/aci/system/database/drivers/mysqli/mysqli_driver.php on line 391
+[02-Jul-2018 04:46:58 Asia/Jakarta] PHP Fatal error:  Call to undefined method M_login::checkusername() in /home/kpptech/public_html/operation/eris/abdul/application/controllers/api/Services.php on line 235
+[03-Jul-2018 03:55:44 UTC] PHP Parse error:  syntax error, unexpected '"foto"' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/kpptech/public_html/operation/eris/abdul/application/controllers/admin/Dosen.php on line 95
+[03-Jul-2018 03:56:01 UTC] PHP Parse error:  syntax error, unexpected '"foto"' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/kpptech/public_html/operation/eris/abdul/application/controllers/admin/Dosen.php on line 95
+[10-Jul-2018 10:18:19 Asia/Jakarta] PHP Fatal error:  Call to a member function real_escape_string() on boolean in /home/kpptech/public_html/operation/eris/abdul/system/database/drivers/mysqli/mysqli_driver.php on line 391
+[11-Jul-2018 14:36:43 Asia/Jakarta] PHP Fatal error:  Call to a member function real_escape_string() on boolean in /home/kpptech/public_html/operation/eris/abdul/system/database/drivers/mysqli/mysqli_driver.php on line 391
+[11-Jul-2018 14:37:02 Asia/Jakarta] PHP Fatal error:  Call to a member function real_escape_string() on boolean in /home/kpptech/public_html/operation/eris/abdul/system/database/drivers/mysqli/mysqli_driver.php on line 391
+[11-Jul-2018 07:59:54 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/kpptech/public_html/operation/eris/abdul/application/controllers/api/Services.php on line 226
+[11-Jul-2018 08:00:15 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/kpptech/public_html/operation/eris/abdul/application/controllers/api/Services.php on line 226
+[11-Jul-2018 08:00:28 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/kpptech/public_html/operation/eris/abdul/application/controllers/api/Services.php on line 226
+[11-Jul-2018 08:00:46 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/kpptech/public_html/operation/eris/abdul/application/controllers/api/Services.php on line 226
+[16-Jul-2018 23:36:10 UTC] PHP Fatal error:  Call to undefined method M_pengajuan::getDataDosen() in /home/kpptech/public_html/operation/eris/abdul/application/controllers/admin/Pengajuan.php on line 15
+[16-Jul-2018 23:36:12 UTC] PHP Fatal error:  Call to undefined method M_pengajuan::getDataDosen() in /home/kpptech/public_html/operation/eris/abdul/application/controllers/admin/Pengajuan.php on line 15
+[16-Jul-2018 23:36:25 UTC] PHP Fatal error:  Call to undefined method M_pengajuan::getDataDosen() in /home/kpptech/public_html/operation/eris/abdul/application/controllers/admin/Pengajuan.php on line 15
+[16-Jul-2018 23:39:20 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/kpptech/public_html/operation/eris/abdul/application/views/member/pengajuan/Pengajuan.php on line 241
+[19-Jul-2018 04:23:52 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/kpptech/public_html/operation/eris/abdul/application/controllers/api/Services.php on line 432
+[19-Jul-2018 04:24:05 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/kpptech/public_html/operation/eris/abdul/application/controllers/api/Services.php on line 432
+[19-Jul-2018 04:24:28 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/kpptech/public_html/operation/eris/abdul/application/controllers/api/Services.php on line 432
+[19-Jul-2018 11:24:56 Asia/Jakarta] PHP Fatal error:  Call to a member function result_array() on boolean in /home/kpptech/public_html/operation/eris/abdul/application/models/M_kriteria.php on line 57
+[19-Jul-2018 11:34:21 Asia/Jakarta] PHP Fatal error:  Call to undefined method M_analisa::list_sub_byID() in /home/kpptech/public_html/operation/eris/abdul/application/controllers/api/Services.php on line 260
+[19-Jul-2018 11:34:44 Asia/Jakarta] PHP Fatal error:  Call to undefined method M_analisa::list_sub_byID() in /home/kpptech/public_html/operation/eris/abdul/application/controllers/api/Services.php on line 260
+[25-Jul-2019 16:09:11 UTC] PHP Fatal error:  Cannot redeclare M_analisa::subtotal_kriteria() in /home/kpptech/public_html/operation/eris/rizqi/application/models/M_analisa.php on line 74
+[26-Jan-2022 11:58:25 UTC] PHP Fatal error:  Call to a member function result_array() on boolean in /home/juraganskripsi/public_html/PKP190708/application/models/M_restaurant.php on line 21
+[27-Jan-2022 10:08:22 UTC] PHP Fatal error:  Call to a member function num_rows() on boolean in /home/juraganskripsi/public_html/PKP190708/application/models/M_restaurant.php on line 50
+[27-Jan-2022 10:08:37 UTC] PHP Fatal error:  Call to a member function num_rows() on boolean in /home/juraganskripsi/public_html/PKP190708/application/models/M_restaurant.php on line 50
+[28-Jan-2022 02:56:29 UTC] PHP Fatal error:  Call to a member function num_rows() on boolean in /home/juraganskripsi/public_html/PKP190708/application/models/M_restaurant.php on line 50
+[28-Jan-2022 02:56:34 UTC] PHP Fatal error:  Call to a member function num_rows() on boolean in /home/juraganskripsi/public_html/PKP190708/application/models/M_restaurant.php on line 50
+[28-Jan-2022 02:56:42 UTC] PHP Fatal error:  Call to a member function num_rows() on boolean in /home/juraganskripsi/public_html/PKP190708/application/models/M_restaurant.php on line 50
+[28-Jan-2022 03:26:49 UTC] PHP Fatal error:  Call to a member function num_rows() on boolean in /home/juraganskripsi/public_html/PKP190708/application/models/M_karyawan.php on line 50
+[28-Jan-2022 03:39:17 UTC] PHP Fatal error:  Call to a member function num_rows() on boolean in /home/juraganskripsi/public_html/PKP190708/application/models/M_karyawan.php on line 50
+[28-Jan-2022 03:41:21 UTC] PHP Fatal error:  Call to a member function num_rows() on boolean in /home/juraganskripsi/public_html/PKP190708/application/models/M_karyawan.php on line 50
+[28-Jan-2022 03:42:43 UTC] PHP Fatal error:  Call to a member function num_rows() on boolean in /home/juraganskripsi/public_html/PKP190708/application/models/M_karyawan.php on line 50
+[28-Jan-2022 03:42:48 UTC] PHP Fatal error:  Call to a member function num_rows() on boolean in /home/juraganskripsi/public_html/PKP190708/application/models/M_karyawan.php on line 50
+[28-Jan-2022 03:42:50 UTC] PHP Fatal error:  Call to a member function num_rows() on boolean in /home/juraganskripsi/public_html/PKP190708/application/models/M_karyawan.php on line 50
+[28-Jan-2022 03:44:17 UTC] PHP Fatal error:  Call to a member function num_rows() on boolean in /home/juraganskripsi/public_html/PKP190708/application/models/M_karyawan.php on line 50
+[28-Jan-2022 03:44:40 UTC] PHP Fatal error:  Call to a member function num_rows() on boolean in /home/juraganskripsi/public_html/PKP190708/application/models/M_karyawan.php on line 50
+[28-Jan-2022 03:44:56 UTC] PHP Fatal error:  Call to a member function num_rows() on boolean in /home/juraganskripsi/public_html/PKP190708/application/models/M_karyawan.php on line 50
+[28-Jan-2022 08:54:17 UTC] PHP Fatal error:  Call to a member function num_rows() on boolean in /home/juraganskripsi/public_html/PKP190708/application/models/M_karyawan.php on line 50
+[28-Jan-2022 09:37:22 UTC] PHP Fatal error:  Call to undefined function random_bytes() in /home/juraganskripsi/public_html/PKP190708/application/controllers/admin/Karyawan.php on line 163
+[28-Jan-2022 09:42:13 UTC] PHP Fatal error:  Call to undefined function random_bytes() in /home/juraganskripsi/public_html/PKP190708/application/controllers/admin/Karyawan.php on line 164
+[28-Jan-2022 09:44:03 UTC] PHP Fatal error:  Call to undefined function random_bytes() in /home/juraganskripsi/public_html/PKP190708/application/controllers/admin/Karyawan.php on line 164
+[28-Jan-2022 09:45:49 UTC] PHP Fatal error:  Call to undefined function random_string() in /home/juraganskripsi/public_html/PKP190708/application/controllers/admin/Karyawan.php on line 164
+[28-Jan-2022 10:04:37 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysqli_result::count_all() in /home/juraganskripsi/public_html/PKP190708/application/models/M_karyawan.php on line 101
+[28-Jan-2022 10:43:16 UTC] PHP Fatal error:  Call to a member function getDatapenilaian() on null in /home/juraganskripsi/public_html/PKP190708/application/controllers/admin/Karyawan.php on line 148
+[28-Jan-2022 16:08:42 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/juraganskripsi/public_html/PKP190708/application/views/member/karyawan/penilaian.php on line 237
+[29-Jan-2022 05:00:33 UTC] PHP Fatal error:  Call to a member function result_array() on null in /home/juraganskripsi/public_html/PKP190708/application/models/M_kriteria.php on line 79
+[29-Jan-2022 08:33:36 UTC] PHP Fatal error:  Unsupported operand types in /home/juraganskripsi/public_html/PKP190708/application/views/member/analisa/detil_analisa.php on line 249
+[29-Jan-2022 08:35:08 UTC] PHP Fatal error:  Unsupported operand types in /home/juraganskripsi/public_html/PKP190708/application/views/member/analisa/detil_analisa.php on line 253
+[29-Jan-2022 08:35:29 UTC] PHP Fatal error:  Unsupported operand types in /home/juraganskripsi/public_html/PKP190708/application/views/member/analisa/detil_analisa.php on line 253
+[29-Jan-2022 08:35:59 UTC] PHP Fatal error:  Unsupported operand types in /home/juraganskripsi/public_html/PKP190708/application/views/member/analisa/detil_analisa.php on line 247
+[29-Jan-2022 08:36:30 UTC] PHP Fatal error:  Unsupported operand types in /home/juraganskripsi/public_html/PKP190708/application/views/member/analisa/detil_analisa.php on line 247
+[29-Jan-2022 08:37:03 UTC] PHP Fatal error:  Unsupported operand types in /home/juraganskripsi/public_html/PKP190708/application/views/member/analisa/detil_analisa.php on line 247
+[29-Jan-2022 08:37:37 UTC] PHP Fatal error:  Unsupported operand types in /home/juraganskripsi/public_html/PKP190708/application/views/member/analisa/detil_analisa.php on line 248
+[29-Jan-2022 08:46:33 UTC] PHP Fatal error:  Unsupported operand types in /home/juraganskripsi/public_html/PKP190708/application/views/member/analisa/detil_analisa.php on line 253
+[29-Jan-2022 08:52:00 UTC] PHP Fatal error:  Unsupported operand types in /home/juraganskripsi/public_html/PKP190708/application/views/member/analisa/detil_analisa.php on line 253
+[29-Jan-2022 08:54:38 UTC] PHP Fatal error:  Unsupported operand types in /home/juraganskripsi/public_html/PKP190708/application/views/member/analisa/detil_analisa.php on line 254
+[29-Jan-2022 08:54:56 UTC] PHP Fatal error:  Unsupported operand types in /home/juraganskripsi/public_html/PKP190708/application/views/member/analisa/detil_analisa.php on line 254
+[29-Jan-2022 08:55:04 UTC] PHP Fatal error:  Unsupported operand types in /home/juraganskripsi/public_html/PKP190708/application/views/member/analisa/detil_analisa.php on line 254
+[29-Jan-2022 08:57:20 UTC] PHP Fatal error:  Unsupported operand types in /home/juraganskripsi/public_html/PKP190708/application/views/member/analisa/detil_analisa.php on line 254
+[29-Jan-2022 08:58:49 UTC] PHP Fatal error:  Unsupported operand types in /home/juraganskripsi/public_html/PKP190708/application/views/member/analisa/detil_analisa.php on line 157
+[29-Jan-2022 08:59:05 UTC] PHP Fatal error:  Unsupported operand types in /home/juraganskripsi/public_html/PKP190708/application/views/member/analisa/detil_analisa.php on line 254
+[29-Jan-2022 08:59:51 UTC] PHP Fatal error:  Unsupported operand types in /home/juraganskripsi/public_html/PKP190708/application/views/member/analisa/detil_analisa.php on line 254
+[29-Jan-2022 09:00:39 UTC] PHP Fatal error:  Unsupported operand types in /home/juraganskripsi/public_html/PKP190708/application/views/member/analisa/detil_analisa.php on line 254
+[29-Jan-2022 09:01:01 UTC] PHP Fatal error:  Unsupported operand types in /home/juraganskripsi/public_html/PKP190708/application/views/member/analisa/detil_analisa.php on line 254
+[29-Jan-2022 09:01:16 UTC] PHP Fatal error:  Unsupported operand types in /home/juraganskripsi/public_html/PKP190708/application/views/member/analisa/detil_analisa.php on line 254
+[29-Jan-2022 09:16:45 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/juraganskripsi/public_html/PKP190708/application/views/member/analisa/detil_analisa.php on line 298
+[29-Jan-2022 12:54:59 UTC] PHP Fatal error:  Cannot use [] for reading in /home/juraganskripsi/public_html/PKP190708/application/views/member/analisa/detil_analisa.php on line 296
+[29-Jan-2022 12:55:01 UTC] PHP Fatal error:  Cannot use [] for reading in /home/juraganskripsi/public_html/PKP190708/application/views/member/analisa/detil_analisa.php on line 296
+[29-Jan-2022 13:15:34 UTC] PHP Fatal error:  Unsupported operand types in /home/juraganskripsi/public_html/PKP190708/application/views/member/analisa/detil_analisa.php on line 312
+[29-Jan-2022 13:26:27 UTC] PHP Fatal error:  Cannot use [] for reading in /home/juraganskripsi/public_html/PKP190708/application/views/member/analisa/detil_analisa.php on line 299
+[29-Jan-2022 13:26:42 UTC] PHP Fatal error:  Cannot use [] for reading in /home/juraganskripsi/public_html/PKP190708/application/views/member/analisa/detil_analisa.php on line 299
+[29-Jan-2022 13:27:36 UTC] PHP Fatal error:  Cannot use [] for reading in /home/juraganskripsi/public_html/PKP190708/application/views/member/analisa/detil_analisa.php on line 299
+[29-Jan-2022 13:27:49 UTC] PHP Fatal error:  Cannot use [] for reading in /home/juraganskripsi/public_html/PKP190708/application/views/member/analisa/detil_analisa.php on line 299
+[29-Jan-2022 13:27:57 UTC] PHP Fatal error:  Cannot use [] for reading in /home/juraganskripsi/public_html/PKP190708/application/views/member/analisa/detil_analisa.php on line 299
+[29-Jan-2022 13:32:03 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/juraganskripsi/public_html/PKP190708/application/views/member/analisa/detil_analisa.php on line 332
+[29-Jan-2022 13:32:16 UTC] PHP Fatal error:  Unsupported operand types in /home/juraganskripsi/public_html/PKP190708/application/views/member/analisa/detil_analisa.php on line 312
+[29-Jan-2022 13:55:48 UTC] PHP Fatal error:  Unsupported operand types in /home/juraganskripsi/public_html/PKP190708/application/views/member/analisa/detil_analisa.php on line 299
+[29-Jan-2022 13:56:20 UTC] PHP Fatal error:  Unsupported operand types in /home/juraganskripsi/public_html/PKP190708/application/views/member/analisa/detil_analisa.php on line 299
+[29-Jan-2022 14:01:09 UTC] PHP Fatal error:  Unsupported operand types in /home/juraganskripsi/public_html/PKP190708/application/views/member/analisa/detil_analisa.php on line 300
+[29-Jan-2022 14:01:21 UTC] PHP Fatal error:  Unsupported operand types in /home/juraganskripsi/public_html/PKP190708/application/views/member/analisa/detil_analisa.php on line 300
+[29-Jan-2022 14:18:20 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ']' in /home/juraganskripsi/public_html/PKP190708/application/views/member/analisa/detil_analisa.php on line 306
+[29-Jan-2022 14:41:30 UTC] PHP Fatal error:  Unsupported operand types in /home/juraganskripsi/public_html/PKP190708/application/views/member/analisa/detil_analisa.php on line 307
+[29-Jan-2022 14:41:47 UTC] PHP Fatal error:  Unsupported operand types in /home/juraganskripsi/public_html/PKP190708/application/views/member/analisa/detil_analisa.php on line 307
+[29-Jan-2022 14:42:40 UTC] PHP Fatal error:  Unsupported operand types in /home/juraganskripsi/public_html/PKP190708/application/views/member/analisa/detil_analisa.php on line 307
+[29-Jan-2022 14:44:57 UTC] PHP Parse error:  syntax error, unexpected 'print_r' (T_STRING) in /home/juraganskripsi/public_html/PKP190708/application/views/member/analisa/detil_analisa.php on line 309
+[29-Jan-2022 15:27:20 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/juraganskripsi/public_html/PKP190708/application/views/member/analisa/detil_analisa.php on line 154
+[29-Jan-2022 15:28:34 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/juraganskripsi/public_html/PKP190708/application/views/member/analisa/detil_analisa.php on line 154
+[29-Jan-2022 15:28:42 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/juraganskripsi/public_html/PKP190708/application/views/member/analisa/detil_analisa.php on line 154
+[29-Jan-2022 15:31:22 UTC] PHP Fatal error:  Unsupported operand types in /home/juraganskripsi/public_html/PKP190708/application/views/member/analisa/detil_analisa.php on line 318
+[29-Jan-2022 15:33:50 UTC] PHP Fatal error:  Unsupported operand types in /home/juraganskripsi/public_html/PKP190708/application/views/member/analisa/detil_analisa.php on line 323
+[29-Jan-2022 16:01:49 UTC] PHP Fatal error:  Unsupported operand types in /home/juraganskripsi/public_html/PKP190708/application/views/member/analisa/detil_analisa.php on line 315
+[29-Jan-2022 16:01:58 UTC] PHP Fatal error:  Unsupported operand types in /home/juraganskripsi/public_html/PKP190708/application/views/member/analisa/detil_analisa.php on line 310
+[29-Jan-2022 16:02:55 UTC] PHP Fatal error:  Unsupported operand types in /home/juraganskripsi/public_html/PKP190708/application/views/member/analisa/detil_analisa.php on line 310
+[29-Jan-2022 16:03:02 UTC] PHP Fatal error:  Unsupported operand types in /home/juraganskripsi/public_html/PKP190708/application/views/member/analisa/detil_analisa.php on line 310
+[29-Jan-2022 16:03:13 UTC] PHP Fatal error:  Unsupported operand types in /home/juraganskripsi/public_html/PKP190708/application/views/member/analisa/detil_analisa.php on line 310
+[29-Jan-2022 16:03:35 UTC] PHP Fatal error:  Unsupported operand types in /home/juraganskripsi/public_html/PKP190708/application/views/member/analisa/detil_analisa.php on line 310
+[29-Jan-2022 16:03:57 UTC] PHP Fatal error:  Unsupported operand types in /home/juraganskripsi/public_html/PKP190708/application/views/member/analisa/detil_analisa.php on line 310
+[29-Jan-2022 16:05:36 UTC] PHP Fatal error:  Unsupported operand types in /home/juraganskripsi/public_html/PKP190708/application/views/member/analisa/detil_analisa.php on line 310
+[29-Jan-2022 16:10:25 UTC] PHP Fatal error:  Unsupported operand types in /home/juraganskripsi/public_html/PKP190708/application/views/member/analisa/detil_analisa.php on line 156
+[29-Jan-2022 16:44:55 UTC] PHP Fatal error:  Call to undefined function array_count() in /home/juraganskripsi/public_html/PKP190708/application/views/member/analisa/detil_analisa.php on line 317
+[29-Jan-2022 18:04:09 UTC] PHP Fatal error:  Call to undefined function sum() in /home/juraganskripsi/public_html/PKP190708/application/views/member/analisa/detil_analisa.php on line 279
+[29-Jan-2022 18:07:10 UTC] PHP Parse error:  syntax error, unexpected '$tskor' (T_VARIABLE) in /home/juraganskripsi/public_html/PKP190708/application/views/member/analisa/detil_analisa.php on line 292
+[29-Jan-2022 18:09:25 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/juraganskripsi/public_html/PKP190708/application/views/member/analisa/detil_analisa.php on line 299
+[29-Jan-2022 18:39:39 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/juraganskripsi/public_html/PKP190708/application/views/member/analisa/detil_analisa.php on line 331
+[29-Jan-2022 19:39:46 UTC] PHP Fatal error:  Call to undefined function array_marge() in /home/juraganskripsi/public_html/PKP190708/application/views/member/analisa/detil_analisa.php on line 303
+[29-Jan-2022 19:42:16 UTC] PHP Fatal error:  Cannot use [] for reading in /home/juraganskripsi/public_html/PKP190708/application/views/member/analisa/detil_analisa.php on line 299
+[30-Jan-2022 06:28:39 UTC] PHP Fatal error:  Unsupported operand types in /home/juraganskripsi/public_html/PKP190708/application/views/member/analisa/detil_analisa.php on line 307
+[30-Jan-2022 06:28:49 UTC] PHP Fatal error:  Unsupported operand types in /home/juraganskripsi/public_html/PKP190708/application/views/member/analisa/detil_analisa.php on line 307
+[30-Jan-2022 06:59:37 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/juraganskripsi/public_html/PKP190708/application/views/member/analisa/detil_analisa.php on line 312
+[30-Jan-2022 07:10:35 UTC] PHP Fatal error:  Unsupported operand types in /home/juraganskripsi/public_html/PKP190708/application/views/member/analisa/detil_analisa.php on line 317
+[30-Jan-2022 07:15:02 UTC] PHP Fatal error:  Cannot use [] for reading in /home/juraganskripsi/public_html/PKP190708/application/views/member/analisa/detil_analisa.php on line 318
+[30-Jan-2022 07:21:16 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 266862592 bytes) in /home/juraganskripsi/public_html/PKP190708/system/core/Exceptions.php on line 271
+[30-Jan-2022 07:24:17 UTC] PHP Fatal error:  Unsupported operand types in /home/juraganskripsi/public_html/PKP190708/application/views/member/analisa/detil_analisa.php on line 313
+[30-Jan-2022 07:26:30 UTC] PHP Fatal error:  Unsupported operand types in /home/juraganskripsi/public_html/PKP190708/application/views/member/analisa/detil_analisa.php on line 313
+[30-Jan-2022 07:53:26 UTC] PHP Fatal error:  Call to undefined function array_count() in /home/juraganskripsi/public_html/PKP190708/application/views/member/analisa/detil_analisa.php on line 319
+[30-Jan-2022 08:14:26 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/juraganskripsi/public_html/PKP190708/application/views/member/analisa/detil_analisa.php(284) : eval()'d code on line 1
+[30-Jan-2022 08:14:26 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/juraganskripsi/public_html/PKP190708/application/views/member/analisa/detil_analisa.php(284) : eval()'d code on line 1
+[30-Jan-2022 08:14:26 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/juraganskripsi/public_html/PKP190708/application/views/member/analisa/detil_analisa.php(284) : eval()'d code on line 1
+[30-Jan-2022 08:14:26 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/juraganskripsi/public_html/PKP190708/application/views/member/analisa/detil_analisa.php(284) : eval()'d code on line 1
+[30-Jan-2022 08:14:26 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/juraganskripsi/public_html/PKP190708/application/views/member/analisa/detil_analisa.php(284) : eval()'d code on line 1
+[30-Jan-2022 08:14:26 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/juraganskripsi/public_html/PKP190708/application/views/member/analisa/detil_analisa.php(284) : eval()'d code on line 1
+[30-Jan-2022 08:14:26 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/juraganskripsi/public_html/PKP190708/application/views/member/analisa/detil_analisa.php(284) : eval()'d code on line 1
+[30-Jan-2022 08:14:26 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/juraganskripsi/public_html/PKP190708/application/views/member/analisa/detil_analisa.php(284) : eval()'d code on line 1
+[30-Jan-2022 08:14:26 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/juraganskripsi/public_html/PKP190708/application/views/member/analisa/detil_analisa.php(284) : eval()'d code on line 1
+[30-Jan-2022 08:14:26 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/juraganskripsi/public_html/PKP190708/application/views/member/analisa/detil_analisa.php(284) : eval()'d code on line 1
+[30-Jan-2022 08:14:26 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/juraganskripsi/public_html/PKP190708/application/views/member/analisa/detil_analisa.php(284) : eval()'d code on line 1
+[30-Jan-2022 08:14:26 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/juraganskripsi/public_html/PKP190708/application/views/member/analisa/detil_analisa.php(284) : eval()'d code on line 1
+[30-Jan-2022 08:14:26 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/juraganskripsi/public_html/PKP190708/application/views/member/analisa/detil_analisa.php(284) : eval()'d code on line 1
+[30-Jan-2022 08:14:26 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/juraganskripsi/public_html/PKP190708/application/views/member/analisa/detil_analisa.php(284) : eval()'d code on line 1
+[30-Jan-2022 08:14:26 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/juraganskripsi/public_html/PKP190708/application/views/member/analisa/detil_analisa.php(284) : eval()'d code on line 1
+[30-Jan-2022 08:14:26 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/juraganskripsi/public_html/PKP190708/application/views/member/analisa/detil_analisa.php(284) : eval()'d code on line 1
+[30-Jan-2022 08:14:26 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/juraganskripsi/public_html/PKP190708/application/views/member/analisa/detil_analisa.php(284) : eval()'d code on line 1
+[30-Jan-2022 08:14:26 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/juraganskripsi/public_html/PKP190708/application/views/member/analisa/detil_analisa.php(284) : eval()'d code on line 1
+[30-Jan-2022 08:15:01 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/juraganskripsi/public_html/PKP190708/application/views/member/analisa/detil_analisa.php(284) : eval()'d code on line 1
+[30-Jan-2022 08:15:01 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/juraganskripsi/public_html/PKP190708/application/views/member/analisa/detil_analisa.php(284) : eval()'d code on line 1
+[30-Jan-2022 08:15:01 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/juraganskripsi/public_html/PKP190708/application/views/member/analisa/detil_analisa.php(284) : eval()'d code on line 1
+[30-Jan-2022 08:15:01 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/juraganskripsi/public_html/PKP190708/application/views/member/analisa/detil_analisa.php(284) : eval()'d code on line 1
+[30-Jan-2022 08:15:01 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/juraganskripsi/public_html/PKP190708/application/views/member/analisa/detil_analisa.php(284) : eval()'d code on line 1
+[30-Jan-2022 08:15:01 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/juraganskripsi/public_html/PKP190708/application/views/member/analisa/detil_analisa.php(284) : eval()'d code on line 1
+[30-Jan-2022 08:15:01 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/juraganskripsi/public_html/PKP190708/application/views/member/analisa/detil_analisa.php(284) : eval()'d code on line 1
+[30-Jan-2022 08:15:01 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/juraganskripsi/public_html/PKP190708/application/views/member/analisa/detil_analisa.php(284) : eval()'d code on line 1
+[30-Jan-2022 08:15:01 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/juraganskripsi/public_html/PKP190708/application/views/member/analisa/detil_analisa.php(284) : eval()'d code on line 1
+[30-Jan-2022 08:15:01 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/juraganskripsi/public_html/PKP190708/application/views/member/analisa/detil_analisa.php(284) : eval()'d code on line 1
+[30-Jan-2022 08:15:01 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/juraganskripsi/public_html/PKP190708/application/views/member/analisa/detil_analisa.php(284) : eval()'d code on line 1
+[30-Jan-2022 08:15:01 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/juraganskripsi/public_html/PKP190708/application/views/member/analisa/detil_analisa.php(284) : eval()'d code on line 1
+[30-Jan-2022 08:15:01 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/juraganskripsi/public_html/PKP190708/application/views/member/analisa/detil_analisa.php(284) : eval()'d code on line 1
+[30-Jan-2022 08:15:01 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/juraganskripsi/public_html/PKP190708/application/views/member/analisa/detil_analisa.php(284) : eval()'d code on line 1
+[30-Jan-2022 08:15:01 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/juraganskripsi/public_html/PKP190708/application/views/member/analisa/detil_analisa.php(284) : eval()'d code on line 1
+[30-Jan-2022 08:15:01 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/juraganskripsi/public_html/PKP190708/application/views/member/analisa/detil_analisa.php(284) : eval()'d code on line 1
+[30-Jan-2022 08:15:01 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/juraganskripsi/public_html/PKP190708/application/views/member/analisa/detil_analisa.php(284) : eval()'d code on line 1
+[30-Jan-2022 08:15:01 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/juraganskripsi/public_html/PKP190708/application/views/member/analisa/detil_analisa.php(284) : eval()'d code on line 1
+[30-Jan-2022 08:15:01 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/juraganskripsi/public_html/PKP190708/application/views/member/analisa/detil_analisa.php(284) : eval()'d code on line 1
+[30-Jan-2022 08:15:01 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/juraganskripsi/public_html/PKP190708/application/views/member/analisa/detil_analisa.php(284) : eval()'d code on line 1
+[30-Jan-2022 08:15:01 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/juraganskripsi/public_html/PKP190708/application/views/member/analisa/detil_analisa.php(284) : eval()'d code on line 1
+[30-Jan-2022 08:15:01 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/juraganskripsi/public_html/PKP190708/application/views/member/analisa/detil_analisa.php(284) : eval()'d code on line 1
+[30-Jan-2022 08:15:01 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/juraganskripsi/public_html/PKP190708/application/views/member/analisa/detil_analisa.php(284) : eval()'d code on line 1
+[30-Jan-2022 08:15:01 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/juraganskripsi/public_html/PKP190708/application/views/member/analisa/detil_analisa.php(284) : eval()'d code on line 1
+[30-Jan-2022 08:15:44 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/juraganskripsi/public_html/PKP190708/application/views/member/analisa/detil_analisa.php(284) : eval()'d code on line 1
+[30-Jan-2022 08:15:44 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/juraganskripsi/public_html/PKP190708/application/views/member/analisa/detil_analisa.php(284) : eval()'d code on line 1
+[30-Jan-2022 08:15:44 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/juraganskripsi/public_html/PKP190708/application/views/member/analisa/detil_analisa.php(284) : eval()'d code on line 1
+[30-Jan-2022 08:15:44 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/juraganskripsi/public_html/PKP190708/application/views/member/analisa/detil_analisa.php(284) : eval()'d code on line 1
+[30-Jan-2022 08:15:44 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/juraganskripsi/public_html/PKP190708/application/views/member/analisa/detil_analisa.php(284) : eval()'d code on line 1
+[30-Jan-2022 08:15:44 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/juraganskripsi/public_html/PKP190708/application/views/member/analisa/detil_analisa.php(284) : eval()'d code on line 1
+[30-Jan-2022 08:15:44 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/juraganskripsi/public_html/PKP190708/application/views/member/analisa/detil_analisa.php(284) : eval()'d code on line 1
+[30-Jan-2022 08:15:44 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/juraganskripsi/public_html/PKP190708/application/views/member/analisa/detil_analisa.php(284) : eval()'d code on line 1
+[30-Jan-2022 08:15:44 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/juraganskripsi/public_html/PKP190708/application/views/member/analisa/detil_analisa.php(284) : eval()'d code on line 1
+[30-Jan-2022 08:15:44 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/juraganskripsi/public_html/PKP190708/application/views/member/analisa/detil_analisa.php(284) : eval()'d code on line 1
+[30-Jan-2022 08:15:44 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/juraganskripsi/public_html/PKP190708/application/views/member/analisa/detil_analisa.php(284) : eval()'d code on line 1
+[30-Jan-2022 08:15:44 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/juraganskripsi/public_html/PKP190708/application/views/member/analisa/detil_analisa.php(284) : eval()'d code on line 1
+[30-Jan-2022 08:15:44 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/juraganskripsi/public_html/PKP190708/application/views/member/analisa/detil_analisa.php(284) : eval()'d code on line 1
+[30-Jan-2022 08:15:44 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/juraganskripsi/public_html/PKP190708/application/views/member/analisa/detil_analisa.php(284) : eval()'d code on line 1
+[30-Jan-2022 08:15:44 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/juraganskripsi/public_html/PKP190708/application/views/member/analisa/detil_analisa.php(284) : eval()'d code on line 1
+[30-Jan-2022 08:15:44 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/juraganskripsi/public_html/PKP190708/application/views/member/analisa/detil_analisa.php(284) : eval()'d code on line 1
+[30-Jan-2022 08:15:44 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/juraganskripsi/public_html/PKP190708/application/views/member/analisa/detil_analisa.php(284) : eval()'d code on line 1
+[30-Jan-2022 08:15:44 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/juraganskripsi/public_html/PKP190708/application/views/member/analisa/detil_analisa.php(284) : eval()'d code on line 1
+[30-Jan-2022 08:15:44 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/juraganskripsi/public_html/PKP190708/application/views/member/analisa/detil_analisa.php(284) : eval()'d code on line 1
+[30-Jan-2022 08:15:44 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/juraganskripsi/public_html/PKP190708/application/views/member/analisa/detil_analisa.php(284) : eval()'d code on line 1
+[30-Jan-2022 08:15:44 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/juraganskripsi/public_html/PKP190708/application/views/member/analisa/detil_analisa.php(284) : eval()'d code on line 1
+[30-Jan-2022 08:15:44 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/juraganskripsi/public_html/PKP190708/application/views/member/analisa/detil_analisa.php(284) : eval()'d code on line 1
+[30-Jan-2022 08:15:44 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/juraganskripsi/public_html/PKP190708/application/views/member/analisa/detil_analisa.php(284) : eval()'d code on line 1
+[30-Jan-2022 08:15:44 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/juraganskripsi/public_html/PKP190708/application/views/member/analisa/detil_analisa.php(284) : eval()'d code on line 1
+[30-Jan-2022 08:17:33 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/juraganskripsi/public_html/PKP190708/application/views/member/analisa/detil_analisa.php(284) : eval()'d code on line 1
+[30-Jan-2022 08:17:33 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/juraganskripsi/public_html/PKP190708/application/views/member/analisa/detil_analisa.php(284) : eval()'d code on line 1
+[30-Jan-2022 08:17:33 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/juraganskripsi/public_html/PKP190708/application/views/member/analisa/detil_analisa.php(284) : eval()'d code on line 1
+[30-Jan-2022 08:17:33 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/juraganskripsi/public_html/PKP190708/application/views/member/analisa/detil_analisa.php(284) : eval()'d code on line 1
+[30-Jan-2022 08:17:33 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/juraganskripsi/public_html/PKP190708/application/views/member/analisa/detil_analisa.php(284) : eval()'d code on line 1
+[30-Jan-2022 08:17:33 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/juraganskripsi/public_html/PKP190708/application/views/member/analisa/detil_analisa.php(284) : eval()'d code on line 1
+[30-Jan-2022 08:17:33 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/juraganskripsi/public_html/PKP190708/application/views/member/analisa/detil_analisa.php(284) : eval()'d code on line 1
+[30-Jan-2022 08:17:33 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/juraganskripsi/public_html/PKP190708/application/views/member/analisa/detil_analisa.php(284) : eval()'d code on line 1
+[30-Jan-2022 08:17:33 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/juraganskripsi/public_html/PKP190708/application/views/member/analisa/detil_analisa.php(284) : eval()'d code on line 1
+[30-Jan-2022 08:17:33 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/juraganskripsi/public_html/PKP190708/application/views/member/analisa/detil_analisa.php(284) : eval()'d code on line 1
+[30-Jan-2022 08:17:33 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/juraganskripsi/public_html/PKP190708/application/views/member/analisa/detil_analisa.php(284) : eval()'d code on line 1
+[30-Jan-2022 08:17:33 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/juraganskripsi/public_html/PKP190708/application/views/member/analisa/detil_analisa.php(284) : eval()'d code on line 1
+[30-Jan-2022 08:17:33 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/juraganskripsi/public_html/PKP190708/application/views/member/analisa/detil_analisa.php(284) : eval()'d code on line 1
+[30-Jan-2022 08:17:33 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/juraganskripsi/public_html/PKP190708/application/views/member/analisa/detil_analisa.php(284) : eval()'d code on line 1
+[30-Jan-2022 08:17:33 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/juraganskripsi/public_html/PKP190708/application/views/member/analisa/detil_analisa.php(284) : eval()'d code on line 1
+[30-Jan-2022 08:17:33 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/juraganskripsi/public_html/PKP190708/application/views/member/analisa/detil_analisa.php(284) : eval()'d code on line 1
+[30-Jan-2022 08:17:33 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/juraganskripsi/public_html/PKP190708/application/views/member/analisa/detil_analisa.php(284) : eval()'d code on line 1
+[30-Jan-2022 08:17:33 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/juraganskripsi/public_html/PKP190708/application/views/member/analisa/detil_analisa.php(284) : eval()'d code on line 1
+[30-Jan-2022 14:56:52 UTC] PHP Fatal error:  Unsupported operand types in /home/juraganskripsi/public_html/PKP190708/application/views/member/analisa/detil_analisa.php on line 315
+[30-Jan-2022 14:57:37 UTC] PHP Fatal error:  Unsupported operand types in /home/juraganskripsi/public_html/PKP190708/application/views/member/analisa/detil_analisa.php on line 315
+[30-Jan-2022 14:57:40 UTC] PHP Fatal error:  Unsupported operand types in /home/juraganskripsi/public_html/PKP190708/application/views/member/analisa/detil_analisa.php on line 315
+[30-Jan-2022 15:00:12 UTC] PHP Fatal error:  Unsupported operand types in /home/juraganskripsi/public_html/PKP190708/application/views/member/analisa/detil_analisa.php on line 315
+[30-Jan-2022 15:00:19 UTC] PHP Fatal error:  Unsupported operand types in /home/juraganskripsi/public_html/PKP190708/application/views/member/analisa/detil_analisa.php on line 315
+[30-Jan-2022 16:28:58 UTC] PHP Fatal error:  Call to undefined method M_kriteria::get_new_kriteria() in /home/juraganskripsi/public_html/PKP190708/application/views/member/analisa/detil_analisa.php on line 294
+[30-Jan-2022 16:40:04 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::using() in /home/juraganskripsi/public_html/PKP190708/application/models/M_kriteria.php on line 146
+[30-Jan-2022 17:08:40 UTC] PHP Parse error:  syntax error, unexpected 'sum' (T_STRING) in /home/juraganskripsi/public_html/PKP190708/application/models/M_kriteria.php on line 146
+[31-Jan-2022 05:11:28 UTC] PHP Fatal error:  Call to a member function check_calback_nilai() on null in /home/juraganskripsi/public_html/PKP190708/application/views/member/analisa/detil_analisa.php on line 308
+[31-Jan-2022 05:11:39 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysqli_result::result_count_all() in /home/juraganskripsi/public_html/PKP190708/application/models/M_kriteria.php on line 174
+[31-Jan-2022 05:12:47 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysqli_result::count_all_result() in /home/juraganskripsi/public_html/PKP190708/application/models/M_kriteria.php on line 174
+[31-Jan-2022 05:13:03 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysqli_result::count_all_results() in /home/juraganskripsi/public_html/PKP190708/application/models/M_kriteria.php on line 174
+[31-Jan-2022 05:14:48 UTC] PHP Fatal error:  Call to a member function count_all_results() on null in /home/juraganskripsi/public_html/PKP190708/application/models/M_kriteria.php on line 173
+[31-Jan-2022 05:15:41 UTC] PHP Fatal error:  Call to undefined method M_kriteria::count_all_results() in /home/juraganskripsi/public_html/PKP190708/application/models/M_kriteria.php on line 173
+[31-Jan-2022 05:15:57 UTC] PHP Fatal error:  Call to undefined method M_kriteria::count_all_result() in /home/juraganskripsi/public_html/PKP190708/application/models/M_kriteria.php on line 173
+[31-Jan-2022 05:16:44 UTC] PHP Fatal error:  Call to undefined method M_kriteria::count_all_results() in /home/juraganskripsi/public_html/PKP190708/application/models/M_kriteria.php on line 173
+[31-Jan-2022 05:16:47 UTC] PHP Fatal error:  Call to undefined method M_kriteria::count_all_results() in /home/juraganskripsi/public_html/PKP190708/application/models/M_kriteria.php on line 173
+[31-Jan-2022 05:16:49 UTC] PHP Fatal error:  Call to undefined method M_kriteria::count_all_results() in /home/juraganskripsi/public_html/PKP190708/application/models/M_kriteria.php on line 173
+[31-Jan-2022 05:16:50 UTC] PHP Fatal error:  Call to undefined method M_kriteria::count_all_results() in /home/juraganskripsi/public_html/PKP190708/application/models/M_kriteria.php on line 173
+[31-Jan-2022 05:17:33 UTC] PHP Fatal error:  Call to undefined method M_kriteria::result_count_all() in /home/juraganskripsi/public_html/PKP190708/application/models/M_kriteria.php on line 173
+[31-Jan-2022 05:18:53 UTC] PHP Fatal error:  Call to undefined method M_kriteria::get() in /home/juraganskripsi/public_html/PKP190708/application/models/M_kriteria.php on line 173
+[31-Jan-2022 05:53:22 UTC] PHP Fatal error:  Call to undefined method M_kriteria::getshow_nilai() in /home/juraganskripsi/public_html/PKP190708/application/views/member/analisa/detil_analisa.php on line 319
+[31-Jan-2022 07:14:31 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::result_array() in /home/juraganskripsi/public_html/PKP190708/application/models/M_kriteria.php on line 202
+[31-Jan-2022 07:29:30 UTC] PHP Fatal error:  Cannot redeclare cariMultiplikasi() (previously declared in /home/juraganskripsi/public_html/PKP190708/application/views/member/analisa/detil_analisa.php:332) in /home/juraganskripsi/public_html/PKP190708/application/views/member/analisa/detil_analisa.php on line 332
+[31-Jan-2022 08:47:41 UTC] PHP Fatal error:  Call to undefined function r() in /home/juraganskripsi/public_html/PKP190708/application/views/member/analisa/detil_analisa.php on line 364
+[31-Jan-2022 10:51:23 UTC] PHP Fatal error:  Call to a member function trans_start() on null in /home/juraganskripsi/public_html/PKP190708/application/models/M_kriteria.php on line 189
+[31-Jan-2022 13:36:57 UTC] PHP Fatal error:  Unsupported operand types in /home/juraganskripsi/public_html/PKP190708/application/views/member/analisa/detil_analisa.php on line 156
