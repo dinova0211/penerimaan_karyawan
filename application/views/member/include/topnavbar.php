@@ -18,7 +18,7 @@
 				<!-- /section:basics/sidebar.mobile.toggle -->
 				<div class="navbar-header pull-left">
 					<!-- #section:basics/navbar.layout.brand -->
-					<a href="#" class="navbar-brand">
+					<a href="<?=site_url('admin/dashboard')?>" class="navbar-brand">
 						<small>
 							<i class="fa fa-gears"></i>
 							Penerimaan Karyawan

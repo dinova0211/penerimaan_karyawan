@@ -128,13 +128,23 @@
                 <h1>
                     Halaman Detail Analisa Mutasi
                 </h1>
+                <div class="text-right">
+                    <a href="<?=site_url('admin/cetak_laporan/cetak_lap/')?>" target="_blank">
+                    <i class="fa fa-print">Print Laporan</i>
+                </a>    
+                </div>
+                
             </div><!-- /.page-header -->
-
+            
             <div class="row">
                 <div class="col-xs-12">
                     <div class="clearfix">
                         <?php echo $this->session->flashdata('msgbox') ?>
                     </div>
+                    <div>
+                        
+                    </div>
+                    <div id="print-this-area" class="print-area">
                     <div class="table-header">
                         Nilai Preferensi Masing-Masing Kriteria WPM
                     </div>
@@ -182,7 +192,6 @@
                             </tr>
                         </tfoot>
                     </table>
-                </div>
             </div>
             <div class="row">
                 <div class="col-xs-12">
@@ -405,11 +414,22 @@
                        <?php
 		                }
                     ?>
+                    <script>
+function printContent(el){
+    var restorepage = document.body.innerHTML;
+    var printcontent = document.getElementById(el).innerHTML;
+    document.body.innerHTML = printcontent;
+    window.print();
+    document.body.innerHTML = restorepage;
+}
+</script>
+                </div>
+                    
                 </tbody>
             </table>
             
           
-                    
+         </div>           
 			<?php
 			
 			
@@ -423,6 +443,8 @@
     echo "Process Time: {$time}";
     // Process Time: 1.0000340938568
 ?>
+
+ 
         </div><!-- /.page-content -->
     </div>
 </div><!-- /.main-content -->

@@ -28,7 +28,7 @@ class Services extends CI_Controller {
 		
 	function nilaiPreferensi(){
 		$dataArray = array ( 
-				'pic' => 'Abdul Wakhid' 
+				'pic' => '' 
 		);
 	
 		$param = array(
@@ -100,7 +100,7 @@ class Services extends CI_Controller {
 	
 	function matriksPreferensi(){
 		$dataArray = array ( 
-				'pic' => 'Abdul Wakhid' 
+				'pic' => '' 
 		);
 	
 		$param = array(
@@ -155,7 +155,7 @@ class Services extends CI_Controller {
 	
 	function nilaiPreferensiTotalWPM(){
 		$dataArray = array ( 
-				'pic' => 'Abdul Wakhid' 
+				'pic' => '' 
 		);
 	
 		$param = array(
@@ -183,7 +183,7 @@ class Services extends CI_Controller {
 	
 	function hasil_analisa_WPM(){
 		$dataArray = array ( 
-				'pic' => 'Abdul Wakhid' 
+				'pic' => '' 
 		);
 	
 		$param = array(
@@ -219,7 +219,7 @@ class Services extends CI_Controller {
 	
 	function cari(){
 		$dataArray = array ( 
-				'pic' => 'Abdul Wakhid' 
+				'pic' => '' 
 		);
 	
 		$param = array(
@@ -248,7 +248,7 @@ class Services extends CI_Controller {
 	
 	function cariByPenilaian(){
 		$dataArray = array ( 
-				'pic' => 'Abdul Wakhid' 
+				'pic' => '' 
 		);
 	
 		$param = array(
@@ -279,7 +279,7 @@ class Services extends CI_Controller {
 	////-----------------------REGISTER PENGGUNA------------------------------/////////////
 	function register(){
 		$dataArray = array ( 
-				'pic' => 'abdul' 
+				'pic' => '' 
 		);
 		$param = array(
 				'namaPengguna' 	 =>  $this->input->post('namaPengguna'),
@@ -332,7 +332,7 @@ class Services extends CI_Controller {
 		
 	function login(){
 		$dataArray = array ( 
-				'pic' => 'Abdul' 
+				'pic' => '' 
 		);
 	
 		$param = array(
@@ -361,7 +361,7 @@ class Services extends CI_Controller {
 	}
 
 	////-----------------------SARAN PENGGUNA------------------------------/////////////
-	function saran(){
+/*	function saran(){
 		$dataArray = array ( 
 				'pic' => 'Abdul' 
 		);
@@ -394,11 +394,11 @@ class Services extends CI_Controller {
 		} else {
 			$this->m_api->sendOutput ( $dataArray, 402 ); 
 		}
-	}
+	}*/
 	
 	function listKriteria(){
 		$dataArray = array ( 
-				'pic' => 'Abdul Wakhid' 
+				'pic' => '' 
 		);
 	
 		$param = array(
@@ -426,7 +426,7 @@ class Services extends CI_Controller {
 	
 	function listSubKriteria(){
 		$dataArray = array ( 
-				'pic' => 'Abdul Wakhid' 
+				'pic' => '' 
 		);
 	
 		$param = array(

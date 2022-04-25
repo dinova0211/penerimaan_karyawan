@@ -22,7 +22,7 @@ class Service extends CI_Controller {
 	
 	function loginUser() {
 		$dataArray = array (
-				'pic' => 'Abdul Wakhid' 
+				'pic' => '' 
 		);
 		$email = $this->input->post ( 'email' );
 		$password = $this->input->post ( 'password' );
@@ -58,7 +58,7 @@ class Service extends CI_Controller {
 
 	function listKriteria(){
 		$dataArray = array ( 
-				'pic' => 'Abdul Wakhid' 
+				'pic' => '' 
 		);
 	
 		$param = array(
@@ -86,7 +86,7 @@ class Service extends CI_Controller {
 	
 	function prosesAnalisa(){
 		$dataArray = array ( 
-				'pic' => 'Abdul Wakhid' 
+				'pic' => '' 
 		);
 	
 		$param = array(
