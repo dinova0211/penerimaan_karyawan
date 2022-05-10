@@ -190,9 +190,7 @@
                                         <td><?php echo $value['idKriteria']; ?></td>
                                         <td><?php echo $value['namaKriteria'] ?></td>
                                         <td style="text-align: center;"><?php echo $value['bobot'] ?></td>
-										<!--
-                                        <td><?php echo $value['is_jenjang'] ?></td>
-                                        <td><?php echo $value['is_upload'] ?></td>-->
+										
 
                                         <td>
                                             <a href="<?php echo base_url('admin/kriteria/edit/'.$value['idKriteria']) ?>"><button class="btn btn-primary btn-sm btnEmptySaldo"   style="margin-left:2px"><i class="fa fa-pencil-square" style="font-size: 14px;"></i>&nbsp;&nbsp;<span>Edit</span></button></a>

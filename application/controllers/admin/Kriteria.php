@@ -57,6 +57,8 @@ class Kriteria extends CI_Controller {
 			"idKriteria"	=> str_replace(' ', '', strtoupper($post['id_kriteria'])),
 			"namaKriteria" 	=> $post['nama_kriteria'],
 			"bobot"			=> $post['bobot'],
+			"tingkat"		=> $post['tingkat'],
+			"row"			=> $updateData
 			//"is_upload"		=> $post['is_upload'],
 			//"is_jenjang"	=> $post['is_jenjang']
 			);

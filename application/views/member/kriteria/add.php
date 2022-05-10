@@ -167,6 +167,17 @@
                                 <input type="text" id="form-field-1" name="bobot" value="" placeholder="Isi Bobot" class="col-xs-10 col-sm-5" required/>
                             </div>
                         </div>
+
+                        <div class="form-group">
+                            <label class="col-sm-3 control-label no-padding-right" for="form-field-1">Prioritas</label>
+                            <select name="tingkat">
+                                <option value="">=Pilih=</option>
+                                <option value="prioritas" <?=$row->tingkat == 'prioritas' ? 'selected' : ''?>>prioritas</option>
+                                <option value="penting"></option>
+                                <option value="standart"></option>
+                                <option value="kurang penting"></option>
+                            </select>
+                        </div>
 						<!---
                         <div class="form-group">
                             <label class="col-sm-3 control-label no-padding-right" for="form-field-1">Is Jenjang Prog Studi</label>
